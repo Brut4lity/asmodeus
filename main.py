@@ -44,7 +44,7 @@ async def monster(ctx, *args):
     info_token = string.capwords(' '.join(args))
     data = search_data(info_token, 'monsters')
     if data:
-        embed = discord.Embed(title=info_token, color=discord.Color.red(), description=data['alignment'] + ' ' + data['size'] + ' ' + data['type'])
+        embed = discord.Embed(title=info_token, color=discord.Color.red(), description=data['size'] + ' ' + data['alignment'] + ' ' + data['type'])
         embed.set_image(url=os.environ.get('BOT_URL') + data['image'])
         embed.add_field(name="Stats", value=('\n').join(data['stats']), inline=True)
         embed.add_field(name="Resistances", value=('\n').join(data['resistances']), inline=True)

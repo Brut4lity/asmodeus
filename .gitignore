@@ -149,7 +149,3 @@ static
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
-
-# Custom
-# Parse
-parse.py
