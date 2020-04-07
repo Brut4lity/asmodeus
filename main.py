@@ -32,6 +32,7 @@ async def item(ctx, *args):
         embed.add_field(name="Guilds", value=('\n').join(data['guilds']), inline=False)
         embed.add_field(name="First seen on level", value=data['firstlvlseen'], inline=True)
         embed.add_field(name="Rarity", value=data['rarity'], inline=True)
+        embed.add_field(name="Class restricted", value=data['classrestrict'], inline=True)
         if data['effects'] : embed.add_field(name="Special effects", value=('\n').join(data['effects']), inline=False)
         if data['droppers'] : embed.set_footer(text='\nDropped by : ' + (', ').join(data['droppers']))
         await ctx.send(embed=embed)
