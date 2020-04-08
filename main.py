@@ -1,4 +1,8 @@
-import discord, os, string, json
+import json
+import os
+import string
+
+import discord
 from discord.ext import commands
 
 bot = commands.Bot(command_prefix='!')
@@ -57,4 +61,3 @@ async def monster(ctx, *args):
     else:
         await ctx.send('No data found')
 bot.run(os.environ.get('BOT_TOKEN'))
-

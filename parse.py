@@ -1,4 +1,7 @@
-import os, sys, io, json
+import io
+import json
+import os
+
 import pandas as pd
 from bs4 import BeautifulSoup
 
@@ -81,17 +84,6 @@ def replace_func(target_string):
     target_string = target_string.replace('Can See Invisibles', 'Can See Invisible')
     target_string = target_string.replace('Invisibile', 'Invisible')
     return target_string
-
-# def recursive_replace(target, func):
-#     for data in target:
-#         if type(data) is dict:
-#             data_dict = recursive_replace(data_dict.values(), func)
-#         elif type(data) is list:
-#             data = recursive_replace(data, func)
-#         elif type(data) is str:
-#             data = func(data)
-
-# recursive_replace([item_data_tmp, monster_data_tmp], replace_func)
 
 item_data_tmp = json.loads(replace_func(json.dumps(item_data_tmp)))
 monster_data_tmp = json.loads(replace_func(json.dumps(monster_data_tmp)))
