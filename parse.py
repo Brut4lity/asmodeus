@@ -63,7 +63,7 @@ for f in directory:
                     "alignment": dfs[2][2][0][11:],
                     "stats": ['Hits : ' + dfs[3][0][1], 'A / D : ' + dfs[3][1][1], 'STR : ' + dfs[3][2][1], 'CON : ' + dfs[3][3][1], 'DEX : ' + dfs[3][4][1]],
                     "resistances": ['Fire : ' + dfs[dfsi+1][0][1], 'Cold : ' + dfs[dfsi+1][1][1], 'Electric : ' + dfs[dfsi+1][2][1], 'Mind : ' + dfs[dfsi+1][3][1], 'Disease : ' + dfs[dfsi+1][4][1], 'Poison : ' + dfs[dfsi+1][5][1],
-                     'Magic : ' + dfs[dfsi+2][0][0], 'Stone : ' + dfs[dfsi+2][1][1], 'Paralysis : ' + dfs[dfsi+2][2][1], 'Drain : ' + dfs[dfsi+2][3][1], 'Acid : ' + dfs[dfsi+2][4][1]],
+                     'Magic : ' + dfs[dfsi+2][0][1], 'Stone : ' + dfs[dfsi+2][1][1], 'Paralysis : ' + dfs[dfsi+2][2][1], 'Drain : ' + dfs[dfsi+2][3][1], 'Acid : ' + dfs[dfsi+2][4][1]],
                     "rarity": 'Laired monster' if 'Lair' in dfs[dfsi][0][0] else dfs[dfsi][0][0].split('"')[1].strip(),
                     "firstlvlseen": dfs[1][1][0].split("level ")[1],
                     "special": special,
