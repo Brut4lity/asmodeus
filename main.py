@@ -18,7 +18,7 @@ async def item(ctx, *args):
     data = search_data(info_token, 'items')
     if data:
         embed = discord.Embed(title=info_token, color=discord.Color.red(), description=data['type'])
-        embed.set_image(url=os.environ.get('BOT_URL') + data['image'][2:])
+        embed.set_thumbnail(url=os.environ.get('ASSETS_URL') + data['image'][2:])
         embed.add_field(name="Aligments", value=data['alignments'], inline=True)
         embed.add_field(name="Cursed", value=data['cursed'], inline=True)
         embed.add_field(name="A / D", value=data['ad'], inline=True)
@@ -45,7 +45,7 @@ async def monster(ctx, *args):
     data = search_data(info_token, 'monsters')
     if data:
         embed = discord.Embed(title=info_token, color=discord.Color.red(), description=data['size'] + ' ' + data['alignment'] + ' ' + data['type'])
-        embed.set_image(url=os.environ.get('BOT_URL') + data['image'])
+        embed.set_thumbnail(url=os.environ.get('ASSETS_URL') + data['image'][2:])
         embed.add_field(name="Stats", value=('\n').join(data['stats']), inline=True)
         embed.add_field(name="Resistances", value=('\n').join(data['resistances']), inline=True)
         embed.add_field(name="Abilities", value=('\n').join(data['special']), inline=True)
