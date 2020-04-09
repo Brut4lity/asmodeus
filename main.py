@@ -52,6 +52,7 @@ async def monster(ctx, *args):
         embed.set_thumbnail(url=os.environ.get('ASSETS_URL') + data['image'][2:])
         embed.add_field(name="Stats", value=('\n').join(data['stats']), inline=True)
         embed.add_field(name="Resistances", value=('\n').join(data['resistances']), inline=True)
+        if not data['special'] : data['special'] = ['None']
         embed.add_field(name="Abilities", value=('\n').join(data['special']), inline=True)
         embed.add_field(name="Encounter chance", value=data['rarity'], inline=True)
         embed.add_field(name="Level", value=data['firstlvlseen'], inline=True)
