@@ -84,6 +84,7 @@ def replace_func(target_string):
     target_string = target_string.replace('Can See Invisibles', 'Can See Invisible')
     target_string = target_string.replace('Invisibile', 'Invisible')
     target_string = target_string.replace('Can Electricute', 'Can Electrocute')
+    target_string = target_string.replace('Can Paralize', 'Can Paralyze')
     return target_string
 
 item_data_tmp = json.loads(replace_func(json.dumps(item_data_tmp)))
