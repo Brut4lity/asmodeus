@@ -56,6 +56,7 @@ async def monster(ctx, *args):
         embed.add_field(name="Abilities", value=('\n').join(data['special']), inline=True)
         embed.add_field(name="Encounter chance", value=data['rarity'], inline=True)
         embed.add_field(name="Level", value=data['firstlvlseen'], inline=True)
+        if not data['drops'] : data['drops'] = ['None']
         embed.add_field(name="Drops", value=('\n').join(data['drops']), inline=True)
         embed.set_footer(text=data['group'])
         await ctx.send(embed=embed)
