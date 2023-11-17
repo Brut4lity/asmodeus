@@ -5,7 +5,10 @@ import string
 import discord
 from discord.ext import commands
 
-bot = commands.Bot(command_prefix='!')
+intents = discord.Intents.all()
+intents.members = True
+
+bot = commands.Bot(command_prefix='!', intents=intents)
 
 def search_data(info_token, data_type):
     with open('json' + os.sep + data_type + '.json','r') as json_data:
