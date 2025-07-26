@@ -2,6 +2,7 @@
   {
     "name": "Aard of Being",
     "image": "../images/item23.jpg",
+    "firstseen": "3",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Goblin Shaman           27.89%",
@@ -57,6 +58,7 @@
   {
     "name": "Adamantite Battle Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "5",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Black Wolf               6.94%",
@@ -129,6 +131,7 @@
   {
     "name": "Adamantite Chain",
     "image": "../images/item9.jpg",
+    "firstseen": "5",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Earth Golemn            15.90%",
@@ -205,6 +208,7 @@
   {
     "name": "Adamantite Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "5",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Corpser                 10.23%",
@@ -298,6 +302,7 @@
   {
     "name": "Adamantite Helmet",
     "image": "../images/item13.jpg",
+    "firstseen": "5",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Ransae                   4.19%",
@@ -368,6 +373,7 @@
   {
     "name": "Adamantite Mace",
     "image": "../images/item5.jpg",
+    "firstseen": "5",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Blue Pelagon            12.75%",
@@ -439,6 +445,7 @@
   {
     "name": "Adamantite Plate",
     "image": "../images/item10.jpg",
+    "firstseen": "6",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Dust Devil              15.11%",
@@ -507,6 +514,7 @@
   {
     "name": "Adamantite Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "5",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Eidolan Phantasm         5.75%",
@@ -574,6 +582,7 @@
   {
     "name": "Adamantite Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "5",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Grostrum                 9.50%",
@@ -654,6 +663,7 @@
   {
     "name": "Amulet of Flames",
     "image": "../images/item22.jpg",
+    "firstseen": "4",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Doppleganger             4.90%",
@@ -714,6 +724,7 @@
   {
     "name": "Amulet of Infravision",
     "image": "../images/item22.jpg",
+    "firstseen": "6",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Polymorph                9.58%",
@@ -783,6 +794,7 @@
   {
     "name": "Amulet of Life",
     "image": "../images/item22.jpg",
+    "firstseen": "3",
     "rarity": "34 (Uncommon)",
     "dropsfrom": [
       "Flame Dragon            16.21%",
@@ -841,6 +853,7 @@
   {
     "name": "Amulet of the Drakul",
     "image": "../images/item22.jpg",
+    "firstseen": "5",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Polymorph                9.58%",
@@ -910,6 +923,7 @@
   {
     "name": "Amulet of Ultravision",
     "image": "../images/item22.jpg",
+    "firstseen": "1",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Slave                   20.00%",
@@ -957,6 +971,7 @@
   {
     "name": "Avenger",
     "image": "../images/item3.jpg",
+    "firstseen": "7",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Butcher                 10.18%",
@@ -1045,6 +1060,7 @@
   {
     "name": "Axe of Power",
     "image": "../images/item6.jpg",
+    "firstseen": "11",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Lamurian Guard          10.00%",
@@ -1090,6 +1106,7 @@
   {
     "name": "Axe of the Blackguard",
     "image": "../images/item6.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Slave                   10.00%",
@@ -1137,6 +1154,7 @@
   {
     "name": "Backlash Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Rowdy                    5.13%",
@@ -1191,6 +1209,7 @@
   {
     "name": "Ball and Chain",
     "image": "../images/item33.jpg",
+    "firstseen": "3",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Pariah                  20.00%",
@@ -1233,6 +1252,7 @@
   {
     "name": "Barrier Battle Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "T\u0027Butu                   0.73%",
@@ -1250,6 +1270,7 @@
   {
     "name": "Bells of Kwalish",
     "image": "../images/item30.jpg",
+    "firstseen": "2",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Giant Badger            10.00%",
@@ -1295,6 +1316,7 @@
   {
     "name": "Black Chain Mail",
     "image": "../images/item9.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Kyu Hetha                4.71%",
@@ -1344,6 +1366,7 @@
   {
     "name": "Black Cloak",
     "image": "../images/item16.jpg",
+    "firstseen": "6",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Sentinal                14.07%",
@@ -1440,6 +1463,7 @@
   {
     "name": "Bladed Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "5",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Eidolan Phantasm         8.63%",
@@ -1507,6 +1531,7 @@
   {
     "name": "Blessing of Morash",
     "image": "../images/item33.jpg",
+    "firstseen": "15",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Black Gremlin           30.00%",
@@ -1516,6 +1541,7 @@
   {
     "name": "Bone Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "1",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Orc                      6.67%",
@@ -1580,6 +1606,7 @@
   {
     "name": "Boots of Agility",
     "image": "../images/item20.jpg",
+    "firstseen": "11",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "White Dragon            11.79%",
@@ -1619,6 +1646,7 @@
   {
     "name": "Boots of Evading",
     "image": "../images/item20.jpg",
+    "firstseen": "5",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Doppleganger            20.00%",
@@ -1688,6 +1716,7 @@
   {
     "name": "Boots of Lethargy",
     "image": "../images/item20.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Slave                   20.00%",
@@ -1739,6 +1768,7 @@
   {
     "name": "Boots of Levitation",
     "image": "../images/item20.jpg",
+    "firstseen": "9",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Sharper                 14.81%",
@@ -1795,6 +1825,7 @@
   {
     "name": "Boots of Stealth",
     "image": "../images/item20.jpg",
+    "firstseen": "7",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Phantasmal Mist          7.04%",
@@ -1861,6 +1892,7 @@
   {
     "name": "Boots of Swiftness",
     "image": "../images/item20.jpg",
+    "firstseen": "2",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Goblin Lord             11.11%",
@@ -1919,6 +1951,7 @@
   {
     "name": "Boots of the Elven Lords",
     "image": "../images/item20.jpg",
+    "firstseen": "14",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Gorgon                   0.66%",
@@ -1945,6 +1978,7 @@
   {
     "name": "Bracers of Destruction",
     "image": "../images/item17.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                12.50%",
@@ -1966,6 +2000,7 @@
   {
     "name": "Bracers of Might",
     "image": "../images/item17.jpg",
+    "firstseen": "11",
     "rarity": "7 (Very rare)",
     "dropsfrom": [
       "Flame Devil              8.33%",
@@ -2011,6 +2046,7 @@
   {
     "name": "Bracers of Strength",
     "image": "../images/item17.jpg",
+    "firstseen": "6",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Mostrum                 11.11%",
@@ -2086,12 +2122,14 @@
   {
     "name": "Bronze Battle Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Bracers",
     "image": "../images/item17.jpg",
+    "firstseen": "1",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Enchanter               10.01%",
@@ -2137,48 +2175,56 @@
   {
     "name": "Bronze Chain Mail",
     "image": "../images/item9.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Helmet",
     "image": "../images/item13.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Mace",
     "image": "../images/item5.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Plate Mail",
     "image": "../images/item10.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Bronze Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Brown Cloak",
     "image": "../images/item16.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Twisted Dwarf           15.87%",
@@ -2241,6 +2287,7 @@
   {
     "name": "Burgens Blade",
     "image": "../images/item3.jpg",
+    "firstseen": "5",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Grostrum                 3.17%",
@@ -2321,6 +2368,7 @@
   {
     "name": "Burgens Chain Armor",
     "image": "../images/item9.jpg",
+    "firstseen": "6",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Witch                    3.26%",
@@ -2398,6 +2446,7 @@
   {
     "name": "Caduceus",
     "image": "../images/item28.jpg",
+    "firstseen": "12",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Purple Gremlin          10.06%",
@@ -2436,6 +2485,7 @@
   {
     "name": "Cap of Death",
     "image": "../images/item12.jpg",
+    "firstseen": "12",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Mind Twister            20.00%",
@@ -2472,6 +2522,7 @@
   {
     "name": "Cap of Defense",
     "image": "../images/item12.jpg",
+    "firstseen": "3",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Sorcerer                11.39%",
@@ -2520,6 +2571,7 @@
   {
     "name": "Cap of Protection",
     "image": "../images/item12.jpg",
+    "firstseen": "8",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Magi Lord               20.83%",
@@ -2578,6 +2630,7 @@
   {
     "name": "Cap of Visions",
     "image": "../images/item12.jpg",
+    "firstseen": "5",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Warlock                 11.90%",
@@ -2632,6 +2685,7 @@
   {
     "name": "Cloak of Enchantment",
     "image": "../images/item16.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                 4.17%",
@@ -2655,6 +2709,7 @@
   {
     "name": "Cloak of Invisibility",
     "image": "../images/item16.jpg",
+    "firstseen": "5",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Barbarian                3.46%",
@@ -2750,12 +2805,14 @@
   {
     "name": "Cloak of Night",
     "image": "../images/item16.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Cloak of the Snakes",
     "image": "../images/item16.jpg",
+    "firstseen": "6",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Sentinal                 4.69%",
@@ -2852,90 +2909,105 @@
   {
     "name": "Cloth Cloak",
     "image": "../images/item16.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Copper Helm",
     "image": "../images/item13.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Healer",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Mage",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Ninja",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Nomad",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Paladin",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Scavenger",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Seeker",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Sorcerer",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Thief",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Villain",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Warrior",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Crest of the Wizard",
     "image": "../images/item34.jpg",
+    "firstseen": "0",
     "rarity": "Awarded by guild",
     "dropsfrom": []
   },
   {
     "name": "Cross of Commanding",
     "image": "../images/item2.jpg",
+    "firstseen": "7",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "T\u0027Kovant                11.36%",
@@ -2997,6 +3069,7 @@
   {
     "name": "Cross of Life",
     "image": "../images/item2.jpg",
+    "firstseen": "6",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Black Pelagon           11.09%",
@@ -3055,6 +3128,7 @@
   {
     "name": "Cross of Redemption",
     "image": "../images/item2.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Twisted Dwarf           11.11%",
@@ -3097,6 +3171,7 @@
   {
     "name": "Cross of Requnix",
     "image": "../images/item2.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Mind Twister            10.00%",
@@ -3117,6 +3192,7 @@
   {
     "name": "Crystal of Healing",
     "image": "../images/item27.jpg",
+    "firstseen": "1",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Namana                  10.18%",
@@ -3162,6 +3238,7 @@
   {
     "name": "Crystal of Restoration",
     "image": "../images/item27.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Shadow Wolf             19.44%",
@@ -3211,6 +3288,7 @@
   {
     "name": "Crystal Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "4",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Robber                   0.93%",
@@ -3281,6 +3359,7 @@
   {
     "name": "Cube of Controlling",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3334,6 +3413,7 @@
   {
     "name": "Cube of Death",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3387,6 +3467,7 @@
   {
     "name": "Cube of Domination",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Guardian                 1.18%",
@@ -3440,6 +3521,7 @@
   {
     "name": "Cube of Draining",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3493,6 +3575,7 @@
   {
     "name": "Cube of Flames",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3546,6 +3629,7 @@
   {
     "name": "Cube of Freezing",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3599,6 +3683,7 @@
   {
     "name": "Cube of Restoration",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3652,6 +3737,7 @@
   {
     "name": "Cube of Teleporting",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -3705,6 +3791,7 @@
   {
     "name": "Cuirboulli Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "7",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Greymah                 30.00%",
@@ -3795,6 +3882,7 @@
   {
     "name": "Curse of Morash",
     "image": "../images/item33.jpg",
+    "firstseen": "15",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Black Gremlin           30.00%",
@@ -3804,6 +3892,7 @@
   {
     "name": "Cutlass",
     "image": "../images/item3.jpg",
+    "firstseen": "2",
     "rarity": "45 (Common)",
     "dropsfrom": [
       "Daemon                  14.83%",
@@ -3866,6 +3955,7 @@
   {
     "name": "Dagger of Jagoni",
     "image": "../images/item1.jpg",
+    "firstseen": "6",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Guardian                 8.28%",
@@ -3962,12 +4052,14 @@
   {
     "name": "Dagger of Stealth",
     "image": "../images/item1.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Dagger of Swiftness",
     "image": "../images/item1.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Dragon Queen             1.19%",
@@ -3991,6 +4083,7 @@
   {
     "name": "Dalyn\u0027s Evil Laugh",
     "image": "../images/item33.jpg",
+    "firstseen": "8",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Pariah                  50.00%",
@@ -4000,6 +4093,7 @@
   {
     "name": "Dalyn\u0027s Grin",
     "image": "../images/item32.jpg",
+    "firstseen": "4",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Orange Gremlin          31.43%"
@@ -4008,6 +4102,7 @@
   {
     "name": "Dalyn\u0027s Groan",
     "image": "../images/item32.jpg",
+    "firstseen": "12",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Purple Gremlin          30.00%"
@@ -4016,6 +4111,7 @@
   {
     "name": "Dalyn\u0027s Last Laugh",
     "image": "../images/item32.jpg",
+    "firstseen": "14",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Indigo Gremlin          30.00%"
@@ -4024,6 +4120,7 @@
   {
     "name": "Dalyn\u0027s Laugh",
     "image": "../images/item32.jpg",
+    "firstseen": "6",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Yellow Gremlin          37.50%"
@@ -4032,6 +4129,7 @@
   {
     "name": "Dalyn\u0027s Smile",
     "image": "../images/item32.jpg",
+    "firstseen": "2",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Red Gremlin             30.00%"
@@ -4040,6 +4138,7 @@
   {
     "name": "Dalyn\u0027s Tear",
     "image": "../images/item32.jpg",
+    "firstseen": "10",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Blue Gremlin            30.00%"
@@ -4048,6 +4147,7 @@
   {
     "name": "Delvar\u0027s War Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "4",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Dwarven Lord            33.33%"
@@ -4056,6 +4156,7 @@
   {
     "name": "Derf\u0027s Toe Lint",
     "image": "../images/item33.jpg",
+    "firstseen": "11",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Dark Shape              10.00%",
@@ -4084,6 +4185,7 @@
   {
     "name": "Dominator",
     "image": "../images/item3.jpg",
+    "firstseen": "4",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Robber                   0.31%",
@@ -4154,12 +4256,14 @@
   {
     "name": "Dorlan\u0027s Sash",
     "image": "../images/item18.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Dragon\u0027s Blood",
     "image": "../images/item23.jpg",
+    "firstseen": "11",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Dragon King             10.00%",
@@ -4200,6 +4304,7 @@
   {
     "name": "Dragon\u0027s Water",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            4.02%",
@@ -4257,6 +4362,7 @@
   {
     "name": "Dust of Healing",
     "image": "../images/item26.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Red Gremlin              9.88%",
@@ -4301,6 +4407,7 @@
   {
     "name": "Dust of Life",
     "image": "../images/item26.jpg",
+    "firstseen": "3",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Pelagon                 10.45%",
@@ -4356,6 +4463,7 @@
   {
     "name": "Dust of Locating",
     "image": "../images/item26.jpg",
+    "firstseen": "1",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Red Gremlin              0.59%",
@@ -4400,6 +4508,7 @@
   {
     "name": "Dust of Opening",
     "image": "../images/item26.jpg",
+    "firstseen": "5",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Swordsman               10.56%",
@@ -4457,6 +4566,7 @@
   {
     "name": "Dwarven Hammer",
     "image": "../images/item7.jpg",
+    "firstseen": "7",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Gibbering Yethwa        12.12%",
@@ -4527,6 +4637,7 @@
   {
     "name": "Eliminator",
     "image": "../images/item3.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Lamurian Lord            1.25%",
@@ -4547,6 +4658,7 @@
   {
     "name": "Elixr of Fate",
     "image": "../images/item23.jpg",
+    "firstseen": "8",
     "rarity": "4 (Very rare)",
     "dropsfrom": [
       "Defender                 7.60%",
@@ -4608,6 +4720,7 @@
   {
     "name": "Elixr of Restoration",
     "image": "../images/item23.jpg",
+    "firstseen": "5",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "NaLanea                 17.69%",
@@ -4665,6 +4778,7 @@
   {
     "name": "Elven Bracers",
     "image": "../images/item17.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Flame Devil             11.90%",
@@ -4725,6 +4839,7 @@
   {
     "name": "Elven Potion",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "21 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.41%",
@@ -4782,6 +4897,7 @@
   {
     "name": "Elven Ring",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Black Pelagon            0.27%",
@@ -4859,6 +4975,7 @@
   {
     "name": "Elven Wine",
     "image": "../images/item23.jpg",
+    "firstseen": "11",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Shadow Ninja             9.40%",
@@ -4898,6 +5015,7 @@
   {
     "name": "Erik\u0027s \u002B1 Crayons",
     "image": "../images/item32.jpg",
+    "firstseen": "8",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Pit Fiend                2.22%",
@@ -4961,6 +5079,7 @@
   {
     "name": "Feather Leather Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Dimeon                   4.71%",
@@ -5027,6 +5146,7 @@
   {
     "name": "FlameStone",
     "image": "../images/item29.jpg",
+    "firstseen": "5",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Spook                    2.01%",
@@ -5090,6 +5210,7 @@
   {
     "name": "Gauntlets of Fumbling",
     "image": "../images/item15.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Razor Boar               2.73%",
@@ -5141,6 +5262,7 @@
   {
     "name": "Gauntlets of Might",
     "image": "../images/item15.jpg",
+    "firstseen": "6",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Drakul                  12.70%",
@@ -5205,6 +5327,7 @@
   {
     "name": "Gauntlets of Power",
     "image": "../images/item15.jpg",
+    "firstseen": "8",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "T\u0027Lanea                 10.33%",
@@ -5271,6 +5394,7 @@
   {
     "name": "Gauntlets of Slaying",
     "image": "../images/item15.jpg",
+    "firstseen": "13",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "T\u0027Lanea                  3.44%",
@@ -5304,6 +5428,7 @@
   {
     "name": "Gem of Healing",
     "image": "../images/item27.jpg",
+    "firstseen": "5",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Mordun Pandrun          11.25%",
@@ -5364,6 +5489,7 @@
   {
     "name": "Giant King\u0027s Hammer",
     "image": "../images/item7.jpg",
+    "firstseen": "10",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Giant King              20.00%"
@@ -5372,6 +5498,7 @@
   {
     "name": "Girdle of Giant Strength",
     "image": "../images/item19.jpg",
+    "firstseen": "14",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                12.50%",
@@ -5403,6 +5530,7 @@
   {
     "name": "Girdle of Might",
     "image": "../images/item19.jpg",
+    "firstseen": "6",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Guardian                13.33%",
@@ -5476,6 +5604,7 @@
   {
     "name": "Girdle of Power",
     "image": "../images/item19.jpg",
+    "firstseen": "10",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Harpy                   16.89%",
@@ -5537,6 +5666,7 @@
   {
     "name": "Girdle of Strength",
     "image": "../images/item19.jpg",
+    "firstseen": "2",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Munsae                  13.33%",
@@ -5592,6 +5722,7 @@
   {
     "name": "Gloves of Death",
     "image": "../images/item14.jpg",
+    "firstseen": "15",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Ancient Guardian         4.17%",
@@ -5610,6 +5741,7 @@
   {
     "name": "Gloves of Doom",
     "image": "../images/item14.jpg",
+    "firstseen": "14",
     "rarity": "7 (Very rare)",
     "dropsfrom": [
       "Ancient Guardian         2.92%",
@@ -5638,6 +5770,7 @@
   {
     "name": "Gloves of Light",
     "image": "../images/item14.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Ancient Guardian         0.42%",
@@ -5656,6 +5789,7 @@
   {
     "name": "Gloves of Might",
     "image": "../images/item14.jpg",
+    "firstseen": "9",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Wretch                  15.00%",
@@ -5730,6 +5864,7 @@
   {
     "name": "Gloves of Power",
     "image": "../images/item14.jpg",
+    "firstseen": "11",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Mengu-Ogre               6.60%",
@@ -5782,6 +5917,7 @@
   {
     "name": "Gloves of Strength",
     "image": "../images/item14.jpg",
+    "firstseen": "2",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Hydra                   27.27%",
@@ -5857,6 +5993,7 @@
   {
     "name": "Gloves of the Blackguard",
     "image": "../images/item14.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Killart                  6.25%",
@@ -5920,6 +6057,7 @@
   {
     "name": "Glowing Rock",
     "image": "../images/item29.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Wereboar                22.22%",
@@ -5967,6 +6105,7 @@
   {
     "name": "Gnarled Hands",
     "image": "../images/item0.jpg",
+    "firstseen": "1",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Veyasu                   3.33%",
@@ -6008,6 +6147,7 @@
   {
     "name": "Gold Sash",
     "image": "../images/item18.jpg",
+    "firstseen": "14",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Life Shifter             0.69%",
@@ -6034,6 +6174,7 @@
   {
     "name": "Gordu Staff",
     "image": "../images/item4.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Kyu Yetro                5.56%",
@@ -6093,6 +6234,7 @@
   {
     "name": "Grey Cloak",
     "image": "../images/item16.jpg",
+    "firstseen": "8",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Lamurian                19.68%",
@@ -6192,6 +6334,7 @@
   {
     "name": "Grey Elven Robe",
     "image": "../images/item16.jpg",
+    "firstseen": "14",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Asmodeus                20.83%",
@@ -6227,6 +6370,7 @@
   {
     "name": "Hammer of Flames",
     "image": "../images/item7.jpg",
+    "firstseen": "12",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Etholan Phantasm        10.74%",
@@ -6262,6 +6406,7 @@
   {
     "name": "Hammer of O\u0027landra",
     "image": "../images/item7.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Gorgon                   0.54%",
@@ -6279,12 +6424,14 @@
   {
     "name": "Hands",
     "image": "../images/item0.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Hands of Death",
     "image": "../images/item0.jpg",
+    "firstseen": "9",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Great White             11.73%",
@@ -6330,6 +6477,7 @@
   {
     "name": "Hands of Destruction",
     "image": "../images/item0.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Great White              0.78%",
@@ -6345,6 +6493,7 @@
   {
     "name": "Hands of Slaying",
     "image": "../images/item0.jpg",
+    "firstseen": "12",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Great White              7.82%",
@@ -6373,6 +6522,7 @@
   {
     "name": "Helm of Astral Projection",
     "image": "../images/item13.jpg",
+    "firstseen": "5",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Ransae                   0.56%",
@@ -6443,6 +6593,7 @@
   {
     "name": "Helm of Blindness",
     "image": "../images/item13.jpg",
+    "firstseen": "4",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Ransae                   2.79%",
@@ -6501,6 +6652,7 @@
   {
     "name": "Helm of Brilliance",
     "image": "../images/item13.jpg",
+    "firstseen": "14",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Dragon Queen             2.56%",
@@ -6530,6 +6682,7 @@
   {
     "name": "Helm of Ish\u0027taria",
     "image": "../images/item13.jpg",
+    "firstseen": "5",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Ransae                   1.40%",
@@ -6600,6 +6753,7 @@
   {
     "name": "Helm of Knowledge",
     "image": "../images/item13.jpg",
+    "firstseen": "12",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Dragon Queen             2.56%",
@@ -6640,6 +6794,7 @@
   {
     "name": "Helm of Sight",
     "image": "../images/item13.jpg",
+    "firstseen": "6",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Lava Giant               5.67%",
@@ -6713,6 +6868,7 @@
   {
     "name": "Holy Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "9",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Lamurian Lord            3.75%",
@@ -6784,6 +6940,7 @@
   {
     "name": "Initiate\u0027s Hands",
     "image": "../images/item0.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Veyasu                   6.67%",
@@ -6825,6 +6982,7 @@
   {
     "name": "Iron Battle Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "2",
     "rarity": "45 (Common)",
     "dropsfrom": [
       "Ice Demon                9.67%",
@@ -6880,6 +7038,7 @@
   {
     "name": "Iron Bracers",
     "image": "../images/item17.jpg",
+    "firstseen": "2",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Razor Boar              19.51%",
@@ -6931,6 +7090,7 @@
   {
     "name": "Iron Chain Mail",
     "image": "../images/item9.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Kyu Hetha               15.69%",
@@ -6980,6 +7140,7 @@
   {
     "name": "Iron Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Orc                     13.33%",
@@ -7044,6 +7205,7 @@
   {
     "name": "Iron Gauntlets",
     "image": "../images/item15.jpg",
+    "firstseen": "2",
     "rarity": "45 (Common)",
     "dropsfrom": [
       "Thug                     9.33%",
@@ -7101,6 +7263,7 @@
   {
     "name": "Iron Hammer",
     "image": "../images/item7.jpg",
+    "firstseen": "1",
     "rarity": "45 (Common)",
     "dropsfrom": [
       "Killart                 12.50%",
@@ -7146,6 +7309,7 @@
   {
     "name": "Iron Helmet",
     "image": "../images/item13.jpg",
+    "firstseen": "2",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Nan-Shuma               11.76%",
@@ -7199,6 +7363,7 @@
   {
     "name": "Iron Mace",
     "image": "../images/item5.jpg",
+    "firstseen": "2",
     "rarity": "45 (Common)",
     "dropsfrom": [
       "Ice Demon               19.52%",
@@ -7254,6 +7419,7 @@
   {
     "name": "Iron Plate Mail",
     "image": "../images/item10.jpg",
+    "firstseen": "2",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Carrion Crawler         14.70%",
@@ -7305,6 +7471,7 @@
   {
     "name": "Iron Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "2",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Warrior                 20.00%",
@@ -7364,6 +7531,7 @@
   {
     "name": "Iron Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Rowdy                   17.09%",
@@ -7418,6 +7586,7 @@
   {
     "name": "Iron-shod Staff",
     "image": "../images/item4.jpg",
+    "firstseen": "3",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Giant Crocodile         28.97%",
@@ -7489,6 +7658,7 @@
   {
     "name": "Katana",
     "image": "../images/item3.jpg",
+    "firstseen": "2",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Cutthroat               10.18%",
@@ -7551,6 +7721,7 @@
   {
     "name": "Key of Opening",
     "image": "../images/item32.jpg",
+    "firstseen": "1",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Skeleton                11.15%",
@@ -7593,6 +7764,7 @@
   {
     "name": "Lamurian Amulet",
     "image": "../images/item22.jpg",
+    "firstseen": "14",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Lamurian Guard           6.67%",
@@ -7624,6 +7796,7 @@
   {
     "name": "Lamurian Crown",
     "image": "../images/item12.jpg",
+    "firstseen": "16",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Lamurian High Priestess 20.00%"
@@ -7632,6 +7805,7 @@
   {
     "name": "Lamurian Ring",
     "image": "../images/item21.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Lamurian High Priestess  9.09%",
@@ -7703,6 +7877,7 @@
   {
     "name": "Lamurian Shock Lance",
     "image": "../images/item28.jpg",
+    "firstseen": "13",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Ogre                    17.09%",
@@ -7738,6 +7913,7 @@
   {
     "name": "Landria\u0027s Hammer",
     "image": "../images/item7.jpg",
+    "firstseen": "6",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Cyclops                 11.50%",
@@ -7802,6 +7978,7 @@
   {
     "name": "Lead Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "6",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Phase Beast              5.15%",
@@ -7875,6 +8052,7 @@
   {
     "name": "Lead Bracers",
     "image": "../images/item17.jpg",
+    "firstseen": "4",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Mostrum                  7.41%",
@@ -7939,6 +8117,7 @@
   {
     "name": "Lead Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "4",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Kei-Shuma                4.77%",
@@ -8004,24 +8183,28 @@
   {
     "name": "Leather Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Leather Boots",
     "image": "../images/item20.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Leather Cap",
     "image": "../images/item12.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Leather Girdle",
     "image": "../images/item19.jpg",
+    "firstseen": "1",
     "rarity": "43 (Common)",
     "dropsfrom": [
       "Killart                 25.00%",
@@ -8073,18 +8256,21 @@
   {
     "name": "Leather Gloves",
     "image": "../images/item14.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Lethal Gauntlets",
     "image": "../images/item15.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Lethe Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "2",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Pelagon                  1.17%",
@@ -8162,6 +8348,7 @@
   {
     "name": "Lightning Blade",
     "image": "../images/item3.jpg",
+    "firstseen": "15",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Lamurian Lord           13.75%",
@@ -8182,6 +8369,7 @@
   {
     "name": "Lightning Cube",
     "image": "../images/item31.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Guardian                 2.35%",
@@ -8235,6 +8423,7 @@
   {
     "name": "Lodestone",
     "image": "../images/item29.jpg",
+    "firstseen": "3",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Morgul                  13.67%",
@@ -8293,6 +8482,7 @@
   {
     "name": "Mace of Disruption",
     "image": "../images/item5.jpg",
+    "firstseen": "13",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Charon                  13.58%",
@@ -8329,6 +8519,7 @@
   {
     "name": "Mace of Kordul",
     "image": "../images/item5.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Hiksae                  10.06%",
@@ -8380,6 +8571,7 @@
   {
     "name": "Magenta Sash",
     "image": "../images/item18.jpg",
+    "firstseen": "11",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "T\u0027Kovant                 3.83%",
@@ -8417,6 +8609,7 @@
   {
     "name": "Magic Hands",
     "image": "../images/item0.jpg",
+    "firstseen": "4",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Tiger Shark             20.44%",
@@ -8467,6 +8660,7 @@
   {
     "name": "Magical Dust",
     "image": "../images/item26.jpg",
+    "firstseen": "11",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "T\u0027Kovant                11.12%",
@@ -8507,6 +8701,7 @@
   {
     "name": "Magician\u0027s Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                 8.33%",
@@ -8529,6 +8724,7 @@
   {
     "name": "Magician\u0027s Cap",
     "image": "../images/item12.jpg",
+    "firstseen": "5",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Warlock                  3.97%",
@@ -8583,6 +8779,7 @@
   {
     "name": "Magician\u0027s Helm",
     "image": "../images/item13.jpg",
+    "firstseen": "9",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Dragon Queen            19.18%",
@@ -8649,6 +8846,7 @@
   {
     "name": "Master\u0027s Gloves",
     "image": "../images/item14.jpg",
+    "firstseen": "6",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Astral Demon            27.12%",
@@ -8744,6 +8942,7 @@
   {
     "name": "Master\u0027s Hand",
     "image": "../images/item0.jpg",
+    "firstseen": "6",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Ninja                   14.04%",
@@ -8795,6 +8994,7 @@
   {
     "name": "Medallion of Dragons",
     "image": "../images/item22.jpg",
+    "firstseen": "11",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Lamurian Guard          13.33%",
@@ -8839,6 +9039,7 @@
   {
     "name": "Medusa\u0027s Head",
     "image": "../images/item33.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": [
       "Medusa                  32.94%"
@@ -8847,6 +9048,7 @@
   {
     "name": "Mithril Battle Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "7",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Ice Dragon              11.70%",
@@ -8924,6 +9126,7 @@
   {
     "name": "Mithril Chain Mail",
     "image": "../images/item9.jpg",
+    "firstseen": "7",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Arch-Fiend              16.55%",
@@ -9005,6 +9208,7 @@
   {
     "name": "Mithril Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "6",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Guardian                11.04%",
@@ -9101,6 +9305,7 @@
   {
     "name": "Mithril Gauntlets",
     "image": "../images/item15.jpg",
+    "firstseen": "10",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "T\u0027Lanea                  6.89%",
@@ -9154,6 +9359,7 @@
   {
     "name": "Mithril Helmet",
     "image": "../images/item13.jpg",
+    "firstseen": "7",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Dragon Queen             4.81%",
@@ -9230,6 +9436,7 @@
   {
     "name": "Mithril Mace",
     "image": "../images/item5.jpg",
+    "firstseen": "7",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Ogre                    13.33%",
@@ -9309,6 +9516,7 @@
   {
     "name": "Mithril Ore",
     "image": "../images/item29.jpg",
+    "firstseen": "6",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Thief                    7.41%",
@@ -9370,6 +9578,7 @@
   {
     "name": "Mithril Plate Armor",
     "image": "../images/item10.jpg",
+    "firstseen": "9",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Giant King              10.00%",
@@ -9429,6 +9638,7 @@
   {
     "name": "Mithril Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "8",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Life Shifter            14.11%",
@@ -9504,6 +9714,7 @@
   {
     "name": "Mithril Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "7",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Water Watcher           11.60%",
@@ -9592,6 +9803,7 @@
   {
     "name": "Mithril-shod Staff",
     "image": "../images/item4.jpg",
+    "firstseen": "7",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Lamurian                 9.44%",
@@ -9687,6 +9899,7 @@
   {
     "name": "Mordin Glyph",
     "image": "../images/item32.jpg",
+    "firstseen": "5",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Keenasu                 10.00%",
@@ -9745,6 +9958,7 @@
   {
     "name": "Mystic Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "7",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Demonist                20.00%",
@@ -9826,6 +10040,7 @@
   {
     "name": "Ninja\u0027s Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                 8.33%",
@@ -9848,6 +10063,7 @@
   {
     "name": "Ninja\u0027s Hood",
     "image": "../images/item13.jpg",
+    "firstseen": "7",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Dragon Queen             2.41%",
@@ -9924,6 +10140,7 @@
   {
     "name": "Nugena Gauntlets",
     "image": "../images/item15.jpg",
+    "firstseen": "1",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Razor Boar               9.09%",
@@ -9975,6 +10192,7 @@
   {
     "name": "Nugena Gloves",
     "image": "../images/item14.jpg",
+    "firstseen": "1",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Killart                 18.75%",
@@ -10038,6 +10256,7 @@
   {
     "name": "Nymphlets",
     "image": "../images/item15.jpg",
+    "firstseen": "5",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Drakul                   5.08%",
@@ -10100,6 +10319,7 @@
   {
     "name": "Oak Staff",
     "image": "../images/item4.jpg",
+    "firstseen": "1",
     "rarity": "45 (Common)",
     "dropsfrom": [
       "Kyu Yetro               16.67%",
@@ -10159,6 +10379,7 @@
   {
     "name": "Orb of Life Domination",
     "image": "../images/item30.jpg",
+    "firstseen": "5",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Kyu Hota                 9.89%",
@@ -10226,6 +10447,7 @@
   {
     "name": "Padded Leather Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "1",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Dimeon                  18.82%",
@@ -10292,6 +10514,7 @@
   {
     "name": "Padded Leather Cap",
     "image": "../images/item12.jpg",
+    "firstseen": "2",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Charmer                 10.13%",
@@ -10332,6 +10555,7 @@
   {
     "name": "Paladin\u0027s Armor",
     "image": "../images/item10.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                 6.25%",
@@ -10353,6 +10577,7 @@
   {
     "name": "Paladin\u0027s Helm",
     "image": "../images/item13.jpg",
+    "firstseen": "6",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Lava Giant               1.89%",
@@ -10426,6 +10651,7 @@
   {
     "name": "Pendragon",
     "image": "../images/item22.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Lamurian Mage            1.25%",
@@ -10446,12 +10672,14 @@
   {
     "name": "Pine Staff",
     "image": "../images/item4.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Potion of Agility",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -10509,6 +10737,7 @@
   {
     "name": "Potion of Curing",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            3.45%",
@@ -10566,6 +10795,7 @@
   {
     "name": "Potion of Fitness",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Gredlan Rogue            0.92%",
@@ -10623,6 +10853,7 @@
   {
     "name": "Potion of Flight",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "23 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.64%",
@@ -10680,6 +10911,7 @@
   {
     "name": "Potion of Healing",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            4.02%",
@@ -10737,6 +10969,7 @@
   {
     "name": "Potion of Health",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            3.45%",
@@ -10794,6 +11027,7 @@
   {
     "name": "Potion of Insight",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Gredlan Rogue            1.38%",
@@ -10851,6 +11085,7 @@
   {
     "name": "Potion of Intelligence",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Gredlan Rogue            1.38%",
@@ -10908,6 +11143,7 @@
   {
     "name": "Potion of Invisibility",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.30%",
@@ -10965,6 +11201,7 @@
   {
     "name": "Potion of Leadership",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Gredlan Rogue            1.38%",
@@ -11022,6 +11259,7 @@
   {
     "name": "Potion of Might",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -11079,6 +11317,7 @@
   {
     "name": "Potion of Movement",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.87%",
@@ -11136,6 +11375,7 @@
   {
     "name": "Potion of Negamu",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -11193,6 +11433,7 @@
   {
     "name": "Potion of Nemamu",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -11250,6 +11491,7 @@
   {
     "name": "Potion of Nesamu",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -11307,6 +11549,7 @@
   {
     "name": "Potion of Netamu",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -11364,6 +11607,7 @@
   {
     "name": "Potion of Nevamu",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Gredlan Rogue            2.07%",
@@ -11421,6 +11665,7 @@
   {
     "name": "Potion of Sight",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Gredlan Rogue            4.60%",
@@ -11478,6 +11723,7 @@
   {
     "name": "Potion of Youth",
     "image": "../images/item23.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Gredlan Rogue            1.15%",
@@ -11535,6 +11781,7 @@
   {
     "name": "Prism of Sanctuary",
     "image": "../images/item27.jpg",
+    "firstseen": "3",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Tengu                   20.00%",
@@ -11591,6 +11838,7 @@
   {
     "name": "Pure Mithril",
     "image": "../images/item29.jpg",
+    "firstseen": "12",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "T\u0027Kovant                 1.33%",
@@ -11623,6 +11871,7 @@
   {
     "name": "Purple Sash",
     "image": "../images/item18.jpg",
+    "firstseen": "6",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Mostrum                 10.74%",
@@ -11679,6 +11928,7 @@
   {
     "name": "Ring of Death",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Black Pelagon            0.27%",
@@ -11756,6 +12006,7 @@
   {
     "name": "Ring of Defending",
     "image": "../images/item21.jpg",
+    "firstseen": "7",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Etholan Phantasm         8.90%",
@@ -11839,6 +12090,7 @@
   {
     "name": "Ring of Despair",
     "image": "../images/item21.jpg",
+    "firstseen": "1",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Skuldragl                8.22%",
@@ -11889,6 +12141,7 @@
   {
     "name": "Ring of Disruption",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Black Pelagon            1.37%",
@@ -11966,6 +12219,7 @@
   {
     "name": "Ring of Entrapment",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Black Pelagon            0.55%",
@@ -12043,6 +12297,7 @@
   {
     "name": "Ring of Flames",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Black Pelagon            1.37%",
@@ -12120,6 +12375,7 @@
   {
     "name": "Ring of Frost",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Black Pelagon            1.37%",
@@ -12197,6 +12453,7 @@
   {
     "name": "Ring of Invisibility",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Black Pelagon            2.19%",
@@ -12274,6 +12531,7 @@
   {
     "name": "Ring of Levitation",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Black Pelagon            2.74%",
@@ -12351,6 +12609,7 @@
   {
     "name": "Ring of Myrrn",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Black Pelagon            5.48%",
@@ -12428,6 +12687,7 @@
   {
     "name": "Ring of Opening",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Black Pelagon            0.27%",
@@ -12505,12 +12765,14 @@
   {
     "name": "Ring of Power",
     "image": "../images/item21.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Ring of Protection",
     "image": "../images/item21.jpg",
+    "firstseen": "5",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Tiger Shark              9.29%",
@@ -12583,6 +12845,7 @@
   {
     "name": "Ring of Splendour",
     "image": "../images/item21.jpg",
+    "firstseen": "12",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Lamurian High Priestess  1.82%",
@@ -12626,6 +12889,7 @@
   {
     "name": "Ring of Teleportation",
     "image": "../images/item21.jpg",
+    "firstseen": "6",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Black Pelagon            0.55%",
@@ -12703,6 +12967,7 @@
   {
     "name": "Ring of Truth",
     "image": "../images/item21.jpg",
+    "firstseen": "11",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Lamurian High Priestess  9.09%",
@@ -12757,6 +13022,7 @@
   {
     "name": "Ring of Venom",
     "image": "../images/item21.jpg",
+    "firstseen": "3",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Hell Hound              20.00%",
@@ -12815,6 +13081,7 @@
   {
     "name": "Robe of Insight",
     "image": "../images/item16.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Twisted Dwarf            3.17%",
@@ -12877,6 +13144,7 @@
   {
     "name": "Robe of Remorse",
     "image": "../images/item16.jpg",
+    "firstseen": "1",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Twisted Dwarf            3.17%",
@@ -12939,6 +13207,7 @@
   {
     "name": "Rod of Binding",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -12997,6 +13266,7 @@
   {
     "name": "Rod of Darkness",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13055,6 +13325,7 @@
   {
     "name": "Rod of Entrapment",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13113,6 +13384,7 @@
   {
     "name": "Rod of Flames",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13171,6 +13443,7 @@
   {
     "name": "Rod of Freezing",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13229,6 +13502,7 @@
   {
     "name": "Rod of Hardness",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13287,6 +13561,7 @@
   {
     "name": "Rod of Healing",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13345,6 +13620,7 @@
   {
     "name": "Rod of Lightning",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13403,6 +13679,7 @@
   {
     "name": "Rod of Locating",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13461,6 +13738,7 @@
   {
     "name": "Rod of Passage",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13519,6 +13797,7 @@
   {
     "name": "Rod of Power",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Yellow Gremlin           1.00%",
@@ -13577,6 +13856,7 @@
   {
     "name": "Rod of Ultimate Power",
     "image": "../images/item28.jpg",
+    "firstseen": "4",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Yellow Gremlin           3.75%",
@@ -13635,6 +13915,7 @@
   {
     "name": "Sabre Blade",
     "image": "../images/item1.jpg",
+    "firstseen": "10",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Dragon Queen            17.83%",
@@ -13710,6 +13991,7 @@
   {
     "name": "Scarab of Defense",
     "image": "../images/item29.jpg",
+    "firstseen": "9",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "T\u0027Kovant                 9.99%",
@@ -13762,6 +14044,7 @@
   {
     "name": "Scarab of Life",
     "image": "../images/item29.jpg",
+    "firstseen": "14",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Shadow Ninja             1.77%",
@@ -13786,6 +14069,7 @@
   {
     "name": "Scarab of Pain",
     "image": "../images/item29.jpg",
+    "firstseen": "6",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Thief                    5.56%",
@@ -13847,6 +14131,7 @@
   {
     "name": "Scarab of Protection",
     "image": "../images/item29.jpg",
+    "firstseen": "5",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Spook                    8.04%",
@@ -13910,6 +14195,7 @@
   {
     "name": "Scroll of Control",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Footpad                  2.06%",
@@ -13953,6 +14239,7 @@
   {
     "name": "Scroll of Gorron",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -13996,6 +14283,7 @@
   {
     "name": "Scroll of Hathron",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14039,6 +14327,7 @@
   {
     "name": "Scroll of Kanji",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14082,6 +14371,7 @@
   {
     "name": "Scroll of Ketran",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14125,6 +14415,7 @@
   {
     "name": "Scroll of Mallart",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14168,6 +14459,7 @@
   {
     "name": "Scroll of Nantasu",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14211,6 +14503,7 @@
   {
     "name": "Scroll of Negrun",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14254,6 +14547,7 @@
   {
     "name": "Scroll of Nimeon",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14297,6 +14591,7 @@
   {
     "name": "Scroll of Norgus",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14340,6 +14635,7 @@
   {
     "name": "Scroll of She\u0027tal",
     "image": "../images/item24.jpg",
+    "firstseen": "3",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Sorcerer                10.74%",
@@ -14388,6 +14684,7 @@
   {
     "name": "Scroll of Spells",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Enchanter               11.72%",
@@ -14432,6 +14729,7 @@
   {
     "name": "Scroll of Sumsae",
     "image": "../images/item24.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Footpad                  1.65%",
@@ -14475,6 +14773,7 @@
   {
     "name": "Shadow Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "15",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "T\u0027Butu                   2.19%",
@@ -14492,6 +14791,7 @@
   {
     "name": "Shadow\u0027s Blade",
     "image": "../images/item1.jpg",
+    "firstseen": "7",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Hooded Thief            20.02%",
@@ -14592,6 +14892,7 @@
   {
     "name": "Shield of Defense",
     "image": "../images/item11.jpg",
+    "firstseen": "7",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Butcher                 20.31%",
@@ -14672,6 +14973,7 @@
   {
     "name": "Shimmering Ring",
     "image": "../images/item21.jpg",
+    "firstseen": "1",
     "rarity": "43 (Common)",
     "dropsfrom": [
       "Skuldragl               11.78%",
@@ -14722,6 +15024,7 @@
   {
     "name": "Silver Cloak",
     "image": "../images/item16.jpg",
+    "firstseen": "11",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Lamurian                 9.84%",
@@ -14782,6 +15085,7 @@
   {
     "name": "Silver Cross",
     "image": "../images/item2.jpg",
+    "firstseen": "2",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Gnome                   16.67%",
@@ -14822,6 +15126,7 @@
   {
     "name": "Skeleton Key",
     "image": "../images/item32.jpg",
+    "firstseen": "8",
     "rarity": "4 (Very rare)",
     "dropsfrom": [
       "Pit Fiend                8.89%",
@@ -14885,6 +15190,7 @@
   {
     "name": "Slaver\u0027s Whip",
     "image": "../images/item32.jpg",
+    "firstseen": "3",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Slave Driver            30.00%"
@@ -14893,6 +15199,7 @@
   {
     "name": "Spectral Chain Mail",
     "image": "../images/item9.jpg",
+    "firstseen": "11",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Demon Prince            22.26%",
@@ -14938,6 +15245,7 @@
   {
     "name": "Spectral Plate Armor",
     "image": "../images/item10.jpg",
+    "firstseen": "13",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Life Shifter             3.17%",
@@ -14971,6 +15279,7 @@
   {
     "name": "Spectral Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "14",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Reaper of Souls          8.28%",
@@ -15007,6 +15316,7 @@
   {
     "name": "Sphere of Dislocation",
     "image": "../images/item30.jpg",
+    "firstseen": "6",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Lassumeon               16.74%",
@@ -15073,6 +15383,7 @@
   {
     "name": "Sphere of Doom",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Silent Eagle             2.59%",
@@ -15141,6 +15452,7 @@
   {
     "name": "Sphere of Flames",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Silent Eagle             2.59%",
@@ -15209,6 +15521,7 @@
   {
     "name": "Sphere of Frost",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Silent Eagle             2.59%",
@@ -15277,6 +15590,7 @@
   {
     "name": "Sphere of Harm",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Silent Eagle             2.59%",
@@ -15345,6 +15659,7 @@
   {
     "name": "Sphere of Healing",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Silent Eagle             2.07%",
@@ -15413,6 +15728,7 @@
   {
     "name": "Sphere of Rulership",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "6 (Very rare)",
     "dropsfrom": [
       "Silent Eagle             1.55%",
@@ -15481,6 +15797,7 @@
   {
     "name": "Sphere of Thunder",
     "image": "../images/item30.jpg",
+    "firstseen": "7",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Silent Eagle             3.88%",
@@ -15549,6 +15866,7 @@
   {
     "name": "Staff of Alton",
     "image": "../images/item4.jpg",
+    "firstseen": "2",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Giant Crocodile          2.14%",
@@ -15613,6 +15931,7 @@
   {
     "name": "Staff of Destruction",
     "image": "../images/item4.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Red Cloak Assassin       3.64%",
@@ -15632,6 +15951,7 @@
   {
     "name": "Staff of Helarno",
     "image": "../images/item4.jpg",
+    "firstseen": "13",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Assassin                15.83%",
@@ -15670,6 +15990,7 @@
   {
     "name": "Staff of Striking",
     "image": "../images/item4.jpg",
+    "firstseen": "6",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Cyclops                 18.00%",
@@ -15760,6 +16081,7 @@
   {
     "name": "Static Sash",
     "image": "../images/item18.jpg",
+    "firstseen": "9",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "T\u0027Kovant                 7.65%",
@@ -15810,6 +16132,7 @@
   {
     "name": "Steel Battle Axe",
     "image": "../images/item6.jpg",
+    "firstseen": "4",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Morgul                  12.87%",
@@ -15877,6 +16200,7 @@
   {
     "name": "Steel Bracers",
     "image": "../images/item17.jpg",
+    "firstseen": "3",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Gladiator               10.99%",
@@ -15941,6 +16265,7 @@
   {
     "name": "Steel Chain Mail",
     "image": "../images/item9.jpg",
+    "firstseen": "3",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Trancor                 19.69%",
@@ -16004,6 +16329,7 @@
   {
     "name": "Steel Dagger",
     "image": "../images/item1.jpg",
+    "firstseen": "3",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Satyr                   30.56%",
@@ -16092,6 +16418,7 @@
   {
     "name": "Steel Gauntlets",
     "image": "../images/item15.jpg",
+    "firstseen": "3",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Cutpurse                22.50%",
@@ -16151,6 +16478,7 @@
   {
     "name": "Steel Helmet",
     "image": "../images/item13.jpg",
+    "firstseen": "3",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Lynch Demon              9.73%",
@@ -16210,6 +16538,7 @@
   {
     "name": "Steel Mace",
     "image": "../images/item5.jpg",
+    "firstseen": "4",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Blue Pelagon            17.85%",
@@ -16271,6 +16600,7 @@
   {
     "name": "Steel Plate Mail",
     "image": "../images/item10.jpg",
+    "firstseen": "4",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Morgul                  25.59%",
@@ -16331,6 +16661,7 @@
   {
     "name": "Steel Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "3",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Winged Demon             8.89%",
@@ -16397,6 +16728,7 @@
   {
     "name": "Steel Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "4",
     "rarity": "25 (Uncommon)",
     "dropsfrom": [
       "Robber                   7.75%",
@@ -16467,6 +16799,7 @@
   {
     "name": "Studded Cuirboulli",
     "image": "../images/item8.jpg",
+    "firstseen": "9",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Black Mist              14.44%",
@@ -16535,6 +16868,7 @@
   {
     "name": "Studded Leather Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "3",
     "rarity": "27 (Uncommon)",
     "dropsfrom": [
       "Kaneeshi                15.48%",
@@ -16611,6 +16945,7 @@
   {
     "name": "Suede Leather Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "2",
     "rarity": "35 (Uncommon)",
     "dropsfrom": [
       "Hell Hound              16.94%",
@@ -16683,6 +17018,7 @@
   {
     "name": "Sword of Flames",
     "image": "../images/item3.jpg",
+    "firstseen": "16",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                12.50%",
@@ -16695,6 +17031,7 @@
   {
     "name": "Sword of Slaying",
     "image": "../images/item3.jpg",
+    "firstseen": "11",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Lamurian Lord           18.75%",
@@ -16749,12 +17086,14 @@
   {
     "name": "Sword of the Winds",
     "image": "../images/item3.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   },
   {
     "name": "Thief Sword",
     "image": "../images/item3.jpg",
+    "firstseen": "2",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Cutthroat               10.18%",
@@ -16818,6 +17157,7 @@
   {
     "name": "Thief\u0027s Armor",
     "image": "../images/item8.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                 8.33%",
@@ -16840,6 +17180,7 @@
   {
     "name": "Thief\u0027s Cap",
     "image": "../images/item12.jpg",
+    "firstseen": "6",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Warlock                  3.97%",
@@ -16896,6 +17237,7 @@
   {
     "name": "Thief\u0027s Gloves",
     "image": "../images/item14.jpg",
+    "firstseen": "3",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Frost Giant             26.67%",
@@ -16982,6 +17324,7 @@
   {
     "name": "Tim\u0027s Lead Weights",
     "image": "../images/item33.jpg",
+    "firstseen": "7",
     "rarity": "30 (Uncommon)",
     "dropsfrom": [
       "Pariah                  10.00%",
@@ -17026,6 +17369,7 @@
   {
     "name": "Tome of Agility",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Footpad                 13.82%",
@@ -17074,6 +17418,7 @@
   {
     "name": "Tome of Binding",
     "image": "../images/item25.jpg",
+    "firstseen": "2",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Ghost                   15.00%",
@@ -17122,6 +17467,7 @@
   {
     "name": "Tome of Endurance",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "8 (Very rare)",
     "dropsfrom": [
       "Wraith                  21.25%",
@@ -17175,6 +17521,7 @@
   {
     "name": "Tome of Insight",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Charmer                 11.20%",
@@ -17223,6 +17570,7 @@
   {
     "name": "Tome of Leadership",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Margoyle                12.44%",
@@ -17271,6 +17619,7 @@
   {
     "name": "Tome of Learning",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "12 (Rare)",
     "dropsfrom": [
       "Enchanter               11.27%",
@@ -17319,6 +17668,7 @@
   {
     "name": "Tome of Lies",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Goblie                   6.12%",
@@ -17367,6 +17717,7 @@
   {
     "name": "Tome of Might",
     "image": "../images/item25.jpg",
+    "firstseen": "1",
     "rarity": "18 (Uncommon)",
     "dropsfrom": [
       "Rowdy                   13.11%",
@@ -17416,6 +17767,7 @@
   {
     "name": "Tome of Spells",
     "image": "../images/item25.jpg",
+    "firstseen": "8",
     "rarity": "3 (Very rare)",
     "dropsfrom": [
       "Water Snake             20.00%",
@@ -17475,6 +17827,7 @@
   {
     "name": "Trolls Girdle",
     "image": "../images/item19.jpg",
+    "firstseen": "5",
     "rarity": "20 (Uncommon)",
     "dropsfrom": [
       "Spook                    7.68%",
@@ -17546,6 +17899,7 @@
   {
     "name": "Twisted Bracers",
     "image": "../images/item17.jpg",
+    "firstseen": "3",
     "rarity": "Only dropped by specific monsters",
     "dropsfrom": [
       "Goblin Lord             33.33%"
@@ -17554,6 +17908,7 @@
   {
     "name": "Ulsik Plate Mail",
     "image": "../images/item10.jpg",
+    "firstseen": "1",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Kyu Yetro               11.11%",
@@ -17597,6 +17952,7 @@
   {
     "name": "Unicorn Horn",
     "image": "../images/item32.jpg",
+    "firstseen": "3",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Shape Shifter           11.25%",
@@ -17652,6 +18008,7 @@
   {
     "name": "Vampire Fang",
     "image": "../images/item1.jpg",
+    "firstseen": "13",
     "rarity": "10 (Rare)",
     "dropsfrom": [
       "Dragon Queen            11.89%",
@@ -17698,6 +18055,7 @@
   {
     "name": "Vorpal Blade",
     "image": "../images/item3.jpg",
+    "firstseen": "13",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Lamurian Lord            2.50%",
@@ -17738,6 +18096,7 @@
   {
     "name": "War Hammer",
     "image": "../images/item7.jpg",
+    "firstseen": "2",
     "rarity": "5 (Very rare)",
     "dropsfrom": [
       "Twisted Dwarf           11.11%",
@@ -17790,6 +18149,7 @@
   {
     "name": "Warlord\u0027s Mace",
     "image": "../images/item5.jpg",
+    "firstseen": "15",
     "rarity": "2 (Almost never)",
     "dropsfrom": [
       "Charon                   2.72%",
@@ -17809,6 +18169,7 @@
   {
     "name": "Warrior\u0027s Armor",
     "image": "../images/item10.jpg",
+    "firstseen": "15",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "Asmodeus                 6.25%",
@@ -17830,6 +18191,7 @@
   {
     "name": "White Cloak",
     "image": "../images/item16.jpg",
+    "firstseen": "3",
     "rarity": "40 (Common)",
     "dropsfrom": [
       "Shape Shifter           33.75%",
@@ -17912,6 +18274,7 @@
   {
     "name": "White Flame Gauntlets",
     "image": "../images/item15.jpg",
+    "firstseen": "14",
     "rarity": "1 (Almost never)",
     "dropsfrom": [
       "T\u0027Lanea                  0.69%",
@@ -17939,6 +18302,7 @@
   {
     "name": "White Sash",
     "image": "../images/item18.jpg",
+    "firstseen": "2",
     "rarity": "50 (Common)",
     "dropsfrom": [
       "Daemon                  10.30%",
@@ -17978,6 +18342,7 @@
   {
     "name": "Wicked Blade",
     "image": "../images/item3.jpg",
+    "firstseen": "3",
     "rarity": "15 (Rare)",
     "dropsfrom": [
       "Daemon                   4.94%",
@@ -18046,6 +18411,7 @@
   {
     "name": "Wooden Shield",
     "image": "../images/item11.jpg",
+    "firstseen": "0",
     "rarity": "Found in General Store",
     "dropsfrom": []
   }
