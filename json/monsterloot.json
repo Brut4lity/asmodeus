@@ -362,7 +362,7 @@
   },
   {
     "name": "Asmodeus",
-    "image": "../images/monsters/MON11.jpg",
+    "image": "../images/monsters/MON100.jpg",
     "boxchance": "0%",
     "chestchance": "99%",
     "itemdroplevel": "16",
