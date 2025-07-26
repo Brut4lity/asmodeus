@@ -11,7 +11,6 @@ intents.messages = True
 intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-
 @bot.command()
 async def item(ctx, *args):
     info_token = string.capwords(' '.join(args))
@@ -31,6 +30,9 @@ async def itemdrop(ctx, *args):
     else:
         await ctx.send('Item not found')
 
+@bot.command()
+async def itemdrops(ctx, *args):
+    await itemdrop(ctx, *args)
 
 @bot.command()
 async def monster(ctx, *args):
@@ -107,7 +109,12 @@ def getmonster(data):
 def getmonsterloot(data):
     embed = discord.Embed(title=data['name'], color=discord.Color.red(), description='')
     embed.set_thumbnail(url=os.environ.get('ASSETS_URL') + data['image'][2:])
-    if not data['drops']: data['drops'] = ['None']
+    if not data['drops']:
+        embed.add_field(name='Drops', value='Monster cannot drop loot', inline=False)
+        return embed
+    embed.add_field(name='Box Chance', value=data['boxchance'], inline=True)
+    embed.add_field(name='Chest Chance', value=data['chestchance'], inline=True)
+    embed.add_field(name='Item drop floor', value=data['itemdroplevel'], inline=True)
     for idx, chunk in enumerate(chunk_array(data['drops'], 25)):
         title = 'Drops'
         if idx > 0: title = '\u2000'
@@ -118,13 +125,15 @@ def getmonsterloot(data):
 def getitemdrops(data):
     embed = discord.Embed(title=data['name'], color=discord.Color.red(),description='')
     embed.set_thumbnail(url=os.environ.get('ASSETS_URL') + data['image'][2:])
-    if data['dropsfrom']:
-        for idx, chunk in enumerate(chunk_array(data['dropsfrom'], 30)):
-            title = 'Drops from'
-            if idx > 0: title = '\u2000'
-            embed.add_field(name=title, value='```' + '\n'.join(chunk) + '```', inline=False)
-    else:
+    if not data['dropsfrom']:
         embed.add_field(name='Source', value=data['rarity'], inline=False)
+        return embed
+    embed.add_field(name='Floor', value=data['firstseen'], inline=True)
+    embed.add_field(name='Rarity', value=data['rarity'], inline=True)
+    for idx, chunk in enumerate(chunk_array(data['dropsfrom'], 30)):
+        title = 'Drops from'
+        if idx > 0: title = '\u2000'
+        embed.add_field(name=title, value='```' + '\n'.join(chunk) + '```', inline=False)
     return embed
 
 

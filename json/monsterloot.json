@@ -2,6 +2,9 @@
   {
     "name": "Aboleth",
     "image": "../images/monsters/MON33.jpg",
+    "boxchance": "0%",
+    "chestchance": "85%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Shield               20.00%",
       "Key of Opening            10.00%",
@@ -29,6 +32,9 @@
   {
     "name": "Air Elemental",
     "image": "../images/monsters/MON38.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "3",
     "drops": [
       "Boots of Swiftness         8.64%",
       "Amulet of Life             7.46%",
@@ -79,6 +85,9 @@
   {
     "name": "Altering Beast",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak               18.08%",
       "Iron-shod Staff            9.65%",
@@ -177,6 +186,9 @@
   {
     "name": "Ancient Guardian",
     "image": "../images/monsters/MON80.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "15",
     "drops": [
       "Studded Cuirboulli        12.28%",
       "Gloves of Might            8.33%",
@@ -214,6 +226,9 @@
   {
     "name": "Angel of Death",
     "image": "../images/monsters/MON62.jpg",
+    "boxchance": "5%",
+    "chestchance": "35%",
+    "itemdroplevel": "14",
     "drops": [
       "Staff of Helarno          10.19%",
       "Studded Cuirboulli        10.14%",
@@ -257,6 +272,9 @@
   {
     "name": "Apparitionist",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "9",
     "drops": [
       "Tome of Spells            10.00%",
       "Cap of Protection         10.00%",
@@ -305,6 +323,9 @@
   {
     "name": "Arch-Fiend",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "15% (40% in lair)",
+    "itemdroplevel": "12",
     "drops": [
       "Mithril Chain Mail        16.55%",
       "Crystal of Restoration    10.00%",
@@ -341,7 +362,10 @@
   },
   {
     "name": "Asmodeus",
-    "image": "../images/monsters/MON100jpg",
+    "image": "../images/monsters/MON11.jpg",
+    "boxchance": "0%",
+    "chestchance": "99%",
+    "itemdroplevel": "16",
     "drops": [
       "Grey Elven Robe           20.83%",
       "Bracers of Destruction    12.50%",
@@ -363,6 +387,9 @@
   {
     "name": "Assassin",
     "image": "../images/monsters/MON74.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "14",
     "drops": [
       "Staff of Helarno          15.83%",
       "Hammer of Flames           7.78%",
@@ -398,6 +425,9 @@
   {
     "name": "Asteryex",
     "image": "../images/monsters/MON76.jpg",
+    "boxchance": "10%",
+    "chestchance": "70%",
+    "itemdroplevel": "14",
     "drops": [
       "Grey Cloak                11.43%",
       "Girdle of Power            9.38%",
@@ -424,6 +454,9 @@
   {
     "name": "Astral Demon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "7",
     "drops": [
       "Master\u0027s Gloves           27.12%",
       "Gem of Healing             9.12%",
@@ -558,6 +591,9 @@
   {
     "name": "Banshee",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "11",
     "drops": [
       "Staff of Striking         16.67%",
       "Mithril-shod Staff         5.56%",
@@ -601,6 +637,9 @@
   {
     "name": "Barbarian",
     "image": "../images/monsters/MON37.jpg",
+    "boxchance": "10%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak               27.65%",
       "White Sash                 6.67%",
@@ -634,6 +673,9 @@
   {
     "name": "Beechi",
     "image": "../images/monsters/MON50.jpg",
+    "boxchance": "0%",
+    "chestchance": "5%",
+    "itemdroplevel": "11",
     "drops": [
       "Mithril Sword             11.03%",
       "Sword of Slaying          11.03%",
@@ -690,6 +732,9 @@
   {
     "name": "Black Gremlin",
     "image": "../images/monsters/MON67.jpg",
+    "boxchance": "0%",
+    "chestchance": "60%",
+    "itemdroplevel": "16",
     "drops": [
       "Blessing of Morash        30.00%",
       "Curse of Morash           30.00%",
@@ -786,6 +831,9 @@
   {
     "name": "Black Mist",
     "image": "../images/monsters/MON21.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "14",
     "drops": [
       "Staff of Helarno          14.86%",
       "Studded Cuirboulli        14.44%",
@@ -818,6 +866,9 @@
   {
     "name": "Black Pelagon",
     "image": "../images/monsters/MON81.jpg",
+    "boxchance": "45% (45% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "6",
     "drops": [
       "Studded Leather Armor     11.25%",
       "Cross of Life             11.09%",
@@ -857,6 +908,9 @@
   {
     "name": "Black Wolf",
     "image": "../images/monsters/MON28.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "7",
     "drops": [
       "Master\u0027s Gloves           10.62%",
       "Gem of Healing            10.62%",
@@ -883,6 +937,9 @@
   {
     "name": "Black Yundrun",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "5% (5% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "10",
     "drops": [
       "Mithril Mace              10.12%",
       "Adamantite Plate           8.33%",
@@ -932,6 +989,9 @@
   {
     "name": "Blue Gremlin",
     "image": "../images/monsters/MON87.jpg",
+    "boxchance": "20%",
+    "chestchance": "30%",
+    "itemdroplevel": "10",
     "drops": [
       "Dalyn\u0027s Tear              30.00%",
       "Skeleton Key               7.15%",
@@ -1055,6 +1115,9 @@
   {
     "name": "Blue Pelagon",
     "image": "../images/monsters/MON24.jpg",
+    "boxchance": "45%",
+    "chestchance": "10%",
+    "itemdroplevel": "6",
     "drops": [
       "Steel Mace                17.85%",
       "Girdle of Might           12.98%",
@@ -1085,6 +1148,9 @@
   {
     "name": "Brigand",
     "image": "../images/monsters/MON45.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "9",
     "drops": [
       "Boots of Levitation       10.56%",
       "Elixr of Restoration       8.33%",
@@ -1142,6 +1208,9 @@
   {
     "name": "Burgler",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "20%",
+    "chestchance": "25%",
+    "itemdroplevel": "7",
     "drops": [
       "Cuirboulli Armor          15.02%",
       "Adamantite Dagger          7.76%",
@@ -1276,6 +1345,9 @@
   {
     "name": "Burrow",
     "image": "../images/monsters/MON49.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "7",
     "drops": [
       "Magic Hands                2.49%",
       "Steel Battle Axe           2.18%",
@@ -1410,6 +1482,9 @@
   {
     "name": "Bushart",
     "image": "../images/monsters/MON73.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "5",
     "drops": [
       "Gloves of Strength        11.11%",
       "Magic Hands               10.37%",
@@ -1434,6 +1509,9 @@
   {
     "name": "Bushido",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "5% (5% in lair)",
+    "chestchance": "0% (25% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Boots of Evading           6.67%",
       "Girdle of Might            6.36%",
@@ -1488,6 +1566,9 @@
   {
     "name": "Butcher",
     "image": "../images/monsters/MON25.jpg",
+    "boxchance": "0%",
+    "chestchance": "100%",
+    "itemdroplevel": "8",
     "drops": [
       "Shield of Defense         20.31%",
       "Avenger                   10.18%",
@@ -1511,6 +1592,9 @@
   {
     "name": "Cannibal",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "11",
     "drops": [
       "Mithril Chain Mail         8.20%",
       "Adamantite Chain           7.98%",
@@ -1552,6 +1636,9 @@
   {
     "name": "Carrion Crawler",
     "image": "../images/monsters/MON27.jpg",
+    "boxchance": "5%",
+    "chestchance": "0%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Plate Mail           14.70%",
       "Iron Mace                  8.35%",
@@ -1676,6 +1763,9 @@
   {
     "name": "Cave Bear",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "2",
     "drops": [
       "Glowing Rock              10.07%",
       "Iron Plate Mail            7.45%",
@@ -1779,6 +1869,9 @@
   {
     "name": "Centaur",
     "image": "../images/monsters/MON48.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "3",
     "drops": [
       "Steel Chain Mail          11.33%",
       "White Sash                10.00%",
@@ -1835,6 +1928,9 @@
   {
     "name": "Champion",
     "image": "../images/monsters/MON72.jpg",
+    "boxchance": "10%",
+    "chestchance": "30%",
+    "itemdroplevel": "6",
     "drops": [
       "Boots of Evading          12.50%",
       "Master\u0027s Gloves           11.87%",
@@ -1879,6 +1975,9 @@
   {
     "name": "Charmer",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "20%",
+    "chestchance": "15%",
+    "itemdroplevel": "2",
     "drops": [
       "Scroll of Spells          11.67%",
       "Tome of Insight           11.20%",
@@ -1982,6 +2081,9 @@
   {
     "name": "Charon",
     "image": "../images/monsters/MON68.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "15",
     "drops": [
       "Mace of Disruption        13.58%",
       "Tome of Spells            10.00%",
@@ -2022,6 +2124,9 @@
   {
     "name": "Cockatrice",
     "image": "../images/monsters/MON34.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "6",
     "drops": [
       "Aard of Being             16.36%",
       "Black Cloak               12.45%",
@@ -2133,6 +2238,9 @@
   {
     "name": "Coltpixie",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "12",
     "drops": [
       "Grey Cloak                 7.62%",
       "Mithril Chain Mail         7.32%",
@@ -2168,6 +2276,9 @@
   {
     "name": "Conjurer",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "3",
     "drops": [
       "Prism of Sanctuary        10.00%",
       "White Cloak                7.88%",
@@ -2235,6 +2346,9 @@
   {
     "name": "Corpser",
     "image": "../images/monsters/MON22.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "9",
     "drops": [
       "Adamantite Dagger         10.23%",
       "Mithril Dagger             6.82%",
@@ -2282,6 +2396,9 @@
   {
     "name": "Courrier",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "Boots of Swiftness        10.85%",
       "Boots of Evading           9.46%",
@@ -2390,6 +2507,9 @@
   {
     "name": "Cutpurse",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "20%",
+    "chestchance": "25%",
+    "itemdroplevel": "4",
     "drops": [
       "Steel Gauntlets           22.50%",
       "Magic Hands               10.00%",
@@ -2411,6 +2531,9 @@
   {
     "name": "Cutthroat",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "10%",
+    "chestchance": "60%",
+    "itemdroplevel": "2",
     "drops": [
       "Tome of Agility           11.71%",
       "Thief Sword               10.18%",
@@ -2442,6 +2565,9 @@
   {
     "name": "Cyclops",
     "image": "../images/monsters/MON78.jpg",
+    "boxchance": "20%",
+    "chestchance": "30%",
+    "itemdroplevel": "6",
     "drops": [
       "Staff of Striking         18.00%",
       "Boots of Evading          11.50%",
@@ -2461,6 +2587,9 @@
   {
     "name": "Daemon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "40%",
+    "chestchance": "25%",
+    "itemdroplevel": "3",
     "drops": [
       "Cutlass                   14.83%",
       "White Sash                10.30%",
@@ -2585,6 +2714,9 @@
   {
     "name": "Daemon Lord",
     "image": "../images/monsters/MON74.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "14",
     "drops": [
       "Crystal of Restoration    10.00%",
       "Tome of Spells            10.00%",
@@ -2619,6 +2751,9 @@
   {
     "name": "Dark Shape",
     "image": "../images/monsters/MON82.jpg",
+    "boxchance": "0%",
+    "chestchance": "75%",
+    "itemdroplevel": "14",
     "drops": [
       "Derf\u0027s Toe Lint           10.00%",
       "Magical Dust              10.00%",
@@ -2653,6 +2788,9 @@
   {
     "name": "Death Hawk",
     "image": "../images/monsters/MON18.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Gem of Healing            11.11%",
       "Bracers of Strength        8.89%",
@@ -2694,6 +2832,9 @@
   {
     "name": "Death Stalker",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "15%",
+    "chestchance": "10%",
+    "itemdroplevel": "14",
     "drops": [
       "Studded Cuirboulli        12.00%",
       "Grey Cloak                11.43%",
@@ -2724,6 +2865,9 @@
   {
     "name": "Defender",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "10",
     "drops": [
       "Adamantite Plate           7.63%",
       "Elixr of Fate              7.60%",
@@ -2846,6 +2990,9 @@
   {
     "name": "Demon Prince",
     "image": "../images/monsters/MON63.jpg",
+    "boxchance": "0%",
+    "chestchance": "60%",
+    "itemdroplevel": "16",
     "drops": [
       "Spectral Chain Mail       22.26%",
       "Girdle of Power           10.70%",
@@ -2935,6 +3082,9 @@
   {
     "name": "Demonist",
     "image": "../images/monsters/MON65.jpg",
+    "boxchance": "0%",
+    "chestchance": "105%",
+    "itemdroplevel": "8",
     "drops": [
       "Mystic Shield             20.00%",
       "Cuirboulli Armor          10.00%",
@@ -2977,6 +3127,9 @@
   {
     "name": "Dervish",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "4",
     "drops": [
       "Aard of Being             10.28%",
       "Magic Hands               10.28%",
@@ -3004,11 +3157,17 @@
   {
     "name": "Destroyer of the Deep",
     "image": "../images/monsters/MON63.jpg",
+    "boxchance": "15%",
+    "chestchance": "35%",
+    "itemdroplevel": "15",
     "drops": []
   },
   {
     "name": "Dimeon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "2",
     "drops": [
       "Padded Leather Armor      18.82%",
       "Suede Leather Armor       16.47%",
@@ -3031,6 +3190,9 @@
   {
     "name": "Disciple",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Mace                 16.36%",
       "Iron Shield               10.00%",
@@ -3063,6 +3225,9 @@
   {
     "name": "Displacer",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "13",
     "drops": [
       "Medallion of Dragons       8.99%",
       "Scarab of Defense          7.66%",
@@ -3187,6 +3352,9 @@
   {
     "name": "Doppleganger",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "6",
     "drops": [
       "Boots of Evading          20.00%",
       "Staff of Striking         13.75%",
@@ -3209,6 +3377,9 @@
   {
     "name": "Dragon King",
     "image": "../images/monsters/MON61.jpg",
+    "boxchance": "30%",
+    "chestchance": "25%",
+    "itemdroplevel": "15",
     "drops": [
       "Mace of Disruption        11.62%",
       "Dragon\u0027s Blood            10.00%",
@@ -3243,6 +3414,9 @@
   {
     "name": "Dragon Queen",
     "image": "../images/monsters/MON61.jpg",
+    "boxchance": "30%",
+    "chestchance": "25%",
+    "itemdroplevel": "15",
     "drops": [
       "Magician\u0027s Helm           19.18%",
       "Sabre Blade               17.83%",
@@ -3276,6 +3450,9 @@
   {
     "name": "Dragon Turtle",
     "image": "../images/monsters/MON82.jpg",
+    "boxchance": "20%",
+    "chestchance": "30%",
+    "itemdroplevel": "9",
     "drops": [
       "Dwarven Hammer            10.91%",
       "Black Cloak                9.23%",
@@ -3303,6 +3480,9 @@
   {
     "name": "Drakul",
     "image": "../images/monsters/MON46.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Gauntlets of Might        12.70%",
       "Master\u0027s Gloves            9.56%",
@@ -3344,6 +3524,9 @@
   {
     "name": "Drey Dragon",
     "image": "../images/monsters/MON59.jpg",
+    "boxchance": "30%",
+    "chestchance": "25%",
+    "itemdroplevel": "8",
     "drops": [
       "Cuirboulli Armor          20.00%",
       "Gem of Healing            10.00%",
@@ -3376,6 +3559,9 @@
   {
     "name": "Dryad",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak                8.89%",
       "Gloves of Strength         6.94%",
@@ -3422,6 +3608,9 @@
   {
     "name": "Dungeon Bear",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "2",
     "drops": [
       "Oak Staff                 14.29%",
       "Key of Opening            10.00%",
@@ -3449,6 +3638,9 @@
   {
     "name": "Dungeon Pike",
     "image": "../images/monsters/MON54.jpg",
+    "boxchance": "20%",
+    "chestchance": "0%",
+    "itemdroplevel": "2",
     "drops": [
       "Crystal of Healing        10.00%",
       "Amulet of Ultravision     10.00%",
@@ -3500,6 +3692,9 @@
   {
     "name": "Dunnart",
     "image": "../images/monsters/MON10.jpg",
+    "boxchance": "9%",
+    "chestchance": "1%",
+    "itemdroplevel": "6",
     "drops": [
       "Iron-shod Staff           11.40%",
       "Landria\u0027s Hammer          10.28%",
@@ -3610,6 +3805,9 @@
   {
     "name": "Dust Devil",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "10",
     "drops": [
       "Adamantite Plate          15.11%",
       "Gloves of Might           10.15%",
@@ -3732,6 +3930,9 @@
   {
     "name": "Dwarf",
     "image": "../images/monsters/MON60.jpg",
+    "boxchance": "15%",
+    "chestchance": "25%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Battle Axe            9.40%",
       "Iron Plate Mail            9.28%",
@@ -3856,6 +4057,9 @@
   {
     "name": "Dwarven Guard",
     "image": "../images/monsters/MON60.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "15% (40% in lair)",
+    "itemdroplevel": "4",
     "drops": [
       "White Cloak               20.00%",
       "Prism of Sanctuary        10.00%",
@@ -3879,6 +4083,9 @@
   {
     "name": "Dwarven Lord",
     "image": "../images/monsters/MON57.jpg",
+    "boxchance": "0%",
+    "chestchance": "90%",
+    "itemdroplevel": "4",
     "drops": [
       "Delvar\u0027s War Axe          33.33%",
       "Steel Gauntlets           11.11%",
@@ -3894,6 +4101,9 @@
   {
     "name": "Earth Golemn",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "60% (85% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Master\u0027s Gloves           19.58%",
       "Adamantite Chain          15.90%",
@@ -3924,6 +4134,9 @@
   {
     "name": "Efreet",
     "image": "../images/monsters/MON36.jpg",
+    "boxchance": "12%",
+    "chestchance": "18%",
+    "itemdroplevel": "13",
     "drops": [
       "Magical Dust              10.00%",
       "Crystal of Restoration    10.00%",
@@ -3970,6 +4183,9 @@
   {
     "name": "Eidolan Phantasm",
     "image": "../images/monsters/MON47.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "8",
     "drops": [
       "Staff of Striking         15.00%",
       "Purple Sash               10.00%",
@@ -4014,6 +4230,9 @@
   {
     "name": "Element Mage",
     "image": "../images/monsters/MON66.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "50% (75% in lair)",
+    "itemdroplevel": "3",
     "drops": [
       "Cap of Defense            10.00%",
       "Padded Leather Cap        10.00%",
@@ -4076,6 +4295,9 @@
   {
     "name": "Elf",
     "image": "../images/monsters/MON83.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Battle Axe            7.92%",
       "Girdle of Strength         6.15%",
@@ -4130,6 +4352,9 @@
   {
     "name": "Elven Lord",
     "image": "../images/monsters/MON71.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "13",
     "drops": [
       "Elven Bracers             10.00%",
       "Grey Cloak                 9.52%",
@@ -4175,6 +4400,9 @@
   {
     "name": "Emerald Golemn",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "13",
     "drops": [
       "Cuirboulli Armor          14.81%",
       "Gloves of Might           12.84%",
@@ -4204,6 +4432,9 @@
   {
     "name": "Enchanter",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "1",
     "drops": [
       "Scroll of Spells          11.72%",
       "Tome of Learning          11.27%",
@@ -4290,6 +4521,9 @@
   {
     "name": "Etholan Phantasm",
     "image": "../images/monsters/MON21.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "14",
     "drops": [
       "Hammer of Flames          10.74%",
       "Dwarven Hammer            10.24%",
@@ -4390,6 +4624,9 @@
   {
     "name": "Evil Spirit",
     "image": "../images/monsters/MON38.jpg",
+    "boxchance": "10%",
+    "chestchance": "30%",
+    "itemdroplevel": "6",
     "drops": [
       "Master\u0027s Gloves           19.00%",
       "Cross of Life             10.00%",
@@ -4434,6 +4671,9 @@
   {
     "name": "Fiend",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "11",
     "drops": [
       "Staff of Striking          7.50%",
       "Magical Dust               6.67%",
@@ -4481,6 +4721,9 @@
   {
     "name": "Filcher",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "9",
     "drops": [
       "Cuirboulli Armor          20.00%",
       "Studded Cuirboulli        10.00%",
@@ -4509,6 +4752,9 @@
   {
     "name": "Firagon",
     "image": "../images/monsters/MON12.jpg",
+    "boxchance": "45%",
+    "chestchance": "10%",
+    "itemdroplevel": "3",
     "drops": [
       "Ball and Chain            10.00%",
       "White Cloak                9.59%",
@@ -4558,6 +4804,9 @@
   {
     "name": "Fire Golemn",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "9",
     "drops": [
       "Cuirboulli Armor          13.33%",
       "Adamantite Sword           9.05%",
@@ -4598,6 +4847,9 @@
   {
     "name": "Fire Lord",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "14",
     "drops": [
       "Magician\u0027s Helm           14.24%",
       "Crystal of Restoration    10.00%",
@@ -4631,6 +4883,9 @@
   {
     "name": "Flame Devil",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "14",
     "drops": [
       "Elven Bracers             11.90%",
       "Boots of Levitation        9.40%",
@@ -4731,6 +4986,9 @@
   {
     "name": "Flame Dragon",
     "image": "../images/monsters/MON59.jpg",
+    "boxchance": "45%",
+    "chestchance": "35%",
+    "itemdroplevel": "4",
     "drops": [
       "Amulet of Life            16.21%",
       "Unicorn Horn              10.49%",
@@ -4751,6 +5009,9 @@
   {
     "name": "Footpad",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Tome of Agility           13.82%",
       "Iron Dagger                7.28%",
@@ -4832,6 +5093,9 @@
   {
     "name": "Freezing Mist",
     "image": "../images/monsters/MON21.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Cuirboulli Armor          21.11%",
       "Gem of Healing            10.56%",
@@ -4871,6 +5135,9 @@
   {
     "name": "Frost Bear",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "10",
     "drops": [
       "Master\u0027s Hand             12.50%",
       "Hands of Death             7.50%",
@@ -4930,6 +5197,9 @@
   {
     "name": "Frost Giant",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "20%",
+    "chestchance": "30%",
+    "itemdroplevel": "5",
     "drops": [
       "Thief\u0027s Gloves            26.67%",
       "Gloves of Strength        13.33%",
@@ -4955,6 +5225,9 @@
   {
     "name": "Gargantuan",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "5%",
+    "chestchance": "0%",
+    "itemdroplevel": "14",
     "drops": [
       "Mithril Shield            11.11%",
       "Girdle of Power            9.38%",
@@ -4988,6 +5261,9 @@
   {
     "name": "Gargoyle",
     "image": "../images/monsters/MON40.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "3",
     "drops": [
       "Steel Chain Mail          10.25%",
       "Steel Dagger               9.89%",
@@ -5035,6 +5311,9 @@
   {
     "name": "Geeshi",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "60%",
+    "itemdroplevel": "3",
     "drops": [
       "Steel Chain Mail          18.14%",
       "Iron Battle Axe            9.64%",
@@ -5070,6 +5349,9 @@
   {
     "name": "Genie",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "11",
     "drops": [
       "Bracers of Strength        9.38%",
       "Boots of Levitation        7.88%",
@@ -5106,6 +5388,9 @@
   {
     "name": "Ghost",
     "image": "../images/monsters/MON38.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "Tome of Binding           15.00%",
       "Tome of Endurance         11.07%",
@@ -5140,6 +5425,9 @@
   {
     "name": "Ghoul",
     "image": "../images/monsters/MON20.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "10",
     "drops": [
       "Girdle of Might           12.00%",
       "Gloves of Might           10.00%",
@@ -5170,6 +5458,9 @@
   {
     "name": "Giant Badger",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Dagger               12.99%",
       "Girdle of Strength        10.75%",
@@ -5229,6 +5520,9 @@
   {
     "name": "Giant Crocodile",
     "image": "../images/monsters/MON35.jpg",
+    "boxchance": "10%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "Iron-shod Staff           28.97%",
       "White Cloak                9.22%",
@@ -5267,6 +5561,9 @@
   {
     "name": "Giant King",
     "image": "../images/monsters/MON70.jpg",
+    "boxchance": "0%",
+    "chestchance": "95%",
+    "itemdroplevel": "12",
     "drops": [
       "Giant King\u0027s Hammer       20.00%",
       "Mithril Plate Armor       10.00%",
@@ -5302,6 +5599,9 @@
   {
     "name": "Giant Raven",
     "image": "../images/monsters/MON18.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "3",
     "drops": [
       "Dust of Healing            8.62%",
       "Crystal of Healing         8.57%",
@@ -5392,6 +5692,9 @@
   {
     "name": "Gibbering Yethwa",
     "image": "../images/monsters/MON58.jpg",
+    "boxchance": "50%",
+    "chestchance": "25%",
+    "itemdroplevel": "7",
     "drops": [
       "Dwarven Hammer            12.12%",
       "Steel Mace                10.37%",
@@ -5428,6 +5731,9 @@
   {
     "name": "Gladiator",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "5",
     "drops": [
       "Steel Bracers             10.99%",
       "White Cloak                8.89%",
@@ -5464,6 +5770,9 @@
   {
     "name": "Gnoll",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "4",
     "drops": [
       "White Cloak               20.37%",
       "Steel Dagger              19.58%",
@@ -5490,6 +5799,9 @@
   {
     "name": "Gnome",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "4",
     "drops": [
       "Silver Cross              16.67%",
       "Aard of Being             10.71%",
@@ -5513,11 +5825,93 @@
   {
     "name": "Goblie",
     "image": "../images/monsters/MON2.jpg",
-    "drops": []
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
+    "drops": [
+      "Iron Dagger                6.97%",
+      "Tome of Lies               6.12%",
+      "Tome of Might              5.51%",
+      "Tome of Agility            5.51%",
+      "Tome of Insight            3.67%",
+      "Tome of Learning           3.67%",
+      "Tome of Leadership         3.67%",
+      "Bone Dagger                3.49%",
+      "Scroll of Spells           3.28%",
+      "Potion of Sight            2.98%",
+      "Dragon\u0027s Water             2.61%",
+      "Potion of Healing          2.61%",
+      "Tome of Endurance          2.45%",
+      "Potion of Health           2.23%",
+      "Potion of Curing           2.23%",
+      "Scroll of Control          1.97%",
+      "Potion of Movement         1.86%",
+      "Potion of Flight           1.71%",
+      "Scroll of Negrun           1.57%",
+      "Scroll of Sumsae           1.57%",
+      "Scroll of Ketran           1.57%",
+      "Scroll of Nimeon           1.57%",
+      "Scroll of Hathron          1.57%",
+      "Scroll of Gorron           1.57%",
+      "Scroll of Kanji            1.57%",
+      "Scroll of Mallart          1.57%",
+      "Scroll of Norgus           1.57%",
+      "Scroll of Nantasu          1.57%",
+      "Elven Potion               1.56%",
+      "Potion of Invisibility     1.49%",
+      "Potion of Might            1.34%",
+      "Potion of Agility          1.34%",
+      "Potion of Netamu           1.34%",
+      "Potion of Nevamu           1.34%",
+      "Potion of Nesamu           1.34%",
+      "Potion of Negamu           1.34%",
+      "Potion of Nemamu           1.34%",
+      "Potion of Intelligence     0.89%",
+      "Potion of Leadership       0.89%",
+      "Potion of Insight          0.89%",
+      "Potion of Youth            0.74%",
+      "Potion of Fitness          0.60%",
+      "Initiate\u0027s Hands           0.31%",
+      "Iron Sword                 0.31%",
+      "Iron Chain Mail            0.31%",
+      "Brown Cloak                0.31%",
+      "Dust of Healing            0.31%",
+      "Nugena Gauntlets           0.31%",
+      "Oak Staff                  0.28%",
+      "Iron Hammer                0.28%",
+      "Leather Girdle             0.26%",
+      "Shimmering Ring            0.26%",
+      "Padded Leather Armor       0.25%",
+      "Amulet of Ultravision      0.21%",
+      "Ring of Despair            0.18%",
+      "Crystal of Healing         0.18%",
+      "Nugena Gloves              0.18%",
+      "Gnarled Hands              0.15%",
+      "Backlash Sword             0.092%",
+      "Axe of the Blackguard      0.092%",
+      "Black Chain Mail           0.092%",
+      "Ulsik Plate Mail           0.092%",
+      "Gordu Staff                0.092%",
+      "Boots of Lethargy          0.092%",
+      "Glowing Rock               0.092%",
+      "Gauntlets of Fumbling      0.092%",
+      "Mace of Kordul             0.061%",
+      "Cross of Redemption        0.061%",
+      "Gloves of the Blackguard   0.061%",
+      "Robe of Insight            0.061%",
+      "Robe of Remorse            0.061%",
+      "Feather Leather Armor      0.061%",
+      "Key of Opening             0.031%",
+      "Dust of Locating           0.018%",
+      "Bronze Bracers             0.006%"
+    ]
   },
   {
     "name": "Goblin",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "30% (30% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Shield               10.13%",
       "Dust of Healing            9.66%",
@@ -5621,6 +6015,9 @@
   {
     "name": "Goblin Guard",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "30% (30% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "3",
     "drops": [
       "Steel Chain Mail           7.25%",
       "Gloves of Strength         6.31%",
@@ -5745,6 +6142,9 @@
   {
     "name": "Goblin Lord",
     "image": "../images/monsters/MON57.jpg",
+    "boxchance": "0%",
+    "chestchance": "95%",
+    "itemdroplevel": "3",
     "drops": [
       "Twisted Bracers           33.33%",
       "Iron Bracers              14.81%",
@@ -5759,6 +6159,9 @@
   {
     "name": "Goblin Shaman",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "25% (50% in lair)",
+    "itemdroplevel": "3",
     "drops": [
       "Aard of Being             27.89%",
       "Silver Cross               8.50%",
@@ -5883,6 +6286,9 @@
   {
     "name": "Gold Pelagon",
     "image": "../images/monsters/MON81.jpg",
+    "boxchance": "45% (45% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Tim\u0027s Lead Weights        10.00%",
       "Mordin Glyph               7.19%",
@@ -5935,6 +6341,9 @@
   {
     "name": "Golden Centaur",
     "image": "../images/monsters/MON48.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "12",
     "drops": [
       "Medallion of Dragons      10.10%",
       "Mithril Sword              9.80%",
@@ -5966,6 +6375,9 @@
   {
     "name": "Golden Eagle",
     "image": "../images/monsters/MON18.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "7",
     "drops": [
       "Gem of Healing             9.33%",
       "Master\u0027s Gloves            9.33%",
@@ -6013,6 +6425,9 @@
   {
     "name": "Gorgon",
     "image": "../images/monsters/MON43.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "15",
     "drops": [
       "Tome of Spells            10.74%",
       "Magical Dust              10.74%",
@@ -6050,6 +6465,9 @@
   {
     "name": "Gorguni",
     "image": "../images/monsters/MON58.jpg",
+    "boxchance": "20%",
+    "chestchance": "25%",
+    "itemdroplevel": "11",
     "drops": [
       "Cross of Commanding        9.66%",
       "Mithril Mace               8.02%",
@@ -6093,13 +6511,16 @@
     ]
   },
   {
-    "name": "Gra\u00e8l Mosquito",
+    "name": "Gra\u00E8l Mosquito",
     "image": "../images/monsters/MON26.jpg",
     "drops": []
   },
   {
     "name": "Great White",
     "image": "../images/monsters/MON54.jpg",
+    "boxchance": "25%",
+    "chestchance": "25%",
+    "itemdroplevel": "15",
     "drops": [
       "Hands of Death            11.73%",
       "Cap of Protection          9.58%",
@@ -6220,6 +6641,9 @@
   {
     "name": "Gredlan Footpad",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Dust of Opening            7.40%",
       "Boots of Evading           6.67%",
@@ -6266,6 +6690,9 @@
   {
     "name": "Gredlan Rogue",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Iron Dagger                8.09%",
       "Potion of Sight            4.60%",
@@ -6347,6 +6774,9 @@
   {
     "name": "Green Gremlin",
     "image": "../images/monsters/MON86.jpg",
+    "boxchance": "20%",
+    "chestchance": "25%",
+    "itemdroplevel": "8",
     "drops": [
       "Dalyn\u0027s Evil Laugh        30.00%",
       "Adamantite Chain           5.94%",
@@ -6494,6 +6924,9 @@
   {
     "name": "Greymah",
     "image": "../images/monsters/MON7.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Cuirboulli Armor          30.00%",
       "Master\u0027s Gloves           10.00%",
@@ -6516,6 +6949,9 @@
   {
     "name": "Griffin",
     "image": "../images/monsters/MON41.jpg",
+    "boxchance": "15%",
+    "chestchance": "75%",
+    "itemdroplevel": "11",
     "drops": [
       "Magical Dust               8.89%",
       "Black Cloak                8.48%",
@@ -6569,6 +7005,9 @@
   {
     "name": "Grostrum",
     "image": "../images/monsters/MON43.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "8",
     "drops": [
       "Purple Sash               10.00%",
       "Cuirboulli Armor          10.00%",
@@ -6602,6 +7041,9 @@
   {
     "name": "Guardian",
     "image": "../images/monsters/MON16.jpg",
+    "boxchance": "5%",
+    "chestchance": "25%",
+    "itemdroplevel": "11",
     "drops": [
       "Girdle of Might           13.33%",
       "Mithril Dagger            11.04%",
@@ -6645,6 +7087,9 @@
   {
     "name": "Guardsman",
     "image": "../images/monsters/MON37.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "13",
     "drops": [
       "Grey Cloak                14.29%",
       "Gloves of Might           10.67%",
@@ -6676,6 +7121,9 @@
   {
     "name": "Gumon",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "6",
     "drops": [
       "Studded Leather Armor      8.33%",
       "Steel Plate Mail           6.37%",
@@ -6731,6 +7179,9 @@
   {
     "name": "Hammerhead Shark",
     "image": "../images/monsters/MON54.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "9",
     "drops": [
       "Master\u0027s Hand             10.07%",
       "Cuirboulli Armor           7.04%",
@@ -6786,6 +7237,9 @@
   {
     "name": "Harpy",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "12",
     "drops": [
       "Girdle of Power           16.89%",
       "Grey Cloak                11.64%",
@@ -6819,6 +7273,9 @@
   {
     "name": "Havannan Lion",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "5%",
+    "chestchance": "0%",
+    "itemdroplevel": "4",
     "drops": [
       "Boots of Swiftness        10.00%",
       "Lodestone                 10.00%",
@@ -6839,6 +7296,9 @@
   {
     "name": "Hell Hound",
     "image": "../images/monsters/MON28.jpg",
+    "boxchance": "5%",
+    "chestchance": "0%",
+    "itemdroplevel": "4",
     "drops": [
       "Ring of Venom             20.00%",
       "Suede Leather Armor       16.94%",
@@ -6857,6 +7317,9 @@
   {
     "name": "Hennart",
     "image": "../images/monsters/MON10.jpg",
+    "boxchance": "9%",
+    "chestchance": "1%",
+    "itemdroplevel": "2",
     "drops": [
       "Padded Leather Armor      14.12%",
       "Suede Leather Armor       12.35%",
@@ -6882,6 +7345,9 @@
   {
     "name": "Hero",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "12",
     "drops": [
       "Dwarven Hammer            10.95%",
       "Grey Cloak                 9.52%",
@@ -6912,6 +7378,9 @@
   {
     "name": "Hiksae",
     "image": "../images/monsters/MON22.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Tome of Endurance         10.85%",
       "Boots of Lethargy         10.09%",
@@ -6993,6 +7462,9 @@
   {
     "name": "Hobgoblin",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "20%",
+    "chestchance": "5%",
+    "itemdroplevel": "6",
     "drops": [
       "Black Cloak               12.68%",
       "White Cloak               11.50%",
@@ -7103,6 +7575,9 @@
   {
     "name": "Holy Warrior",
     "image": "../images/monsters/MON71.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "10",
     "drops": [
       "Tome of Spells            10.00%",
       "Amulet of Infravision      8.46%",
@@ -7137,6 +7612,9 @@
   {
     "name": "Hooded Thief",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "0%",
+    "chestchance": "100%",
+    "itemdroplevel": "8",
     "drops": [
       "Shadow\u0027s Blade            20.02%",
       "Cuirboulli Armor          10.34%",
@@ -7237,6 +7715,9 @@
   {
     "name": "Horda Giant",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "60%",
+    "itemdroplevel": "2",
     "drops": [
       "Glowing Rock              10.00%",
       "White Sash                10.00%",
@@ -7262,6 +7743,9 @@
   {
     "name": "Horned Demon",
     "image": "../images/monsters/MON36.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Battle Axe            8.13%",
       "Iron Plate Mail            7.95%",
@@ -7315,6 +7799,9 @@
   {
     "name": "Hydra",
     "image": "../images/monsters/MON24.jpg",
+    "boxchance": "45%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Gloves of Strength        27.27%",
       "Thief\u0027s Gloves            13.54%",
@@ -7334,6 +7821,9 @@
   {
     "name": "Ice Demon",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "40% (65% in lair)",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Mace                 19.52%",
       "Gloves of Strength        15.40%",
@@ -7361,6 +7851,9 @@
   {
     "name": "Ice Dragon",
     "image": "../images/monsters/MON24.jpg",
+    "boxchance": "30%",
+    "chestchance": "25%",
+    "itemdroplevel": "13",
     "drops": [
       "Mithril Battle Axe        11.70%",
       "Mithril Chain Mail         7.87%",
@@ -7485,6 +7978,9 @@
   {
     "name": "Ice Mist",
     "image": "../images/monsters/MON21.jpg",
+    "boxchance": "9%",
+    "chestchance": "1%",
+    "itemdroplevel": "4",
     "drops": [
       "White Cloak               20.22%",
       "Aard of Being             20.22%",
@@ -7509,6 +8005,9 @@
   {
     "name": "Illusion Master",
     "image": "../images/monsters/MON66.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "13",
     "drops": [
       "Cap of Protection         17.07%",
       "Tome of Spells            10.00%",
@@ -7553,6 +8052,9 @@
   {
     "name": "Illusionist",
     "image": "../images/monsters/MON66.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "8",
     "drops": [
       "Gem of Healing            10.00%",
       "Cuirboulli Armor          10.00%",
@@ -7581,6 +8083,9 @@
   {
     "name": "Imp",
     "image": "../images/monsters/MON40.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "6",
     "drops": [
       "Landria\u0027s Hammer          10.00%",
       "Black Cloak                8.63%",
@@ -7619,6 +8124,9 @@
   {
     "name": "Incubi",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "11",
     "drops": [
       "Cross of Commanding        9.66%",
       "Staff of Striking          8.33%",
@@ -7664,6 +8172,9 @@
   {
     "name": "Indigo Gremlin",
     "image": "../images/monsters/MON89.jpg",
+    "boxchance": "20%",
+    "chestchance": "40%",
+    "itemdroplevel": "14",
     "drops": [
       "Dalyn\u0027s Last Laugh        30.00%",
       "Boots of Levitation        2.95%",
@@ -7765,6 +8276,9 @@
   {
     "name": "Iron Bear",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "9",
     "drops": [
       "Adamantite Dagger          9.28%",
       "Elixr of Restoration       7.99%",
@@ -7912,6 +8426,9 @@
   {
     "name": "Jestor",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "20%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Cuirboulli Armor          20.14%",
       "Purple Sash               10.21%",
@@ -8038,6 +8555,9 @@
   {
     "name": "Junnart",
     "image": "../images/monsters/MON10.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "10",
     "drops": [
       "Girdle of Might           12.00%",
       "Staff of Striking          7.50%",
@@ -8072,6 +8592,9 @@
   {
     "name": "Kaelmeon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Lodestone                 10.00%",
       "Steel Chain Mail          10.00%",
@@ -8109,6 +8632,9 @@
   {
     "name": "Kaneeshi",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "20%",
+    "chestchance": "30%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak               17.78%",
       "Studded Leather Armor     15.48%",
@@ -8133,6 +8659,9 @@
   {
     "name": "Keenasu",
     "image": "../images/monsters/MON7.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "Iron-shod Staff           18.39%",
       "Unicorn Horn              10.00%",
@@ -8164,6 +8693,9 @@
   {
     "name": "Kei-Shuma",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Cuirboulli Armor          24.26%",
       "Steel Plate Mail          12.50%",
@@ -8195,6 +8727,9 @@
   {
     "name": "Kenymah",
     "image": "../images/monsters/MON7.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "10",
     "drops": [
       "Staff of Striking          7.50%",
       "Cuirboulli Armor           6.67%",
@@ -8238,6 +8773,9 @@
   {
     "name": "Killart",
     "image": "../images/monsters/MON10.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "1",
     "drops": [
       "Leather Girdle            25.00%",
       "Nugena Gloves             18.75%",
@@ -8253,6 +8791,9 @@
   {
     "name": "Kobold",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Iron Dagger                6.97%",
       "Tome of Lies               4.12%",
@@ -8334,6 +8875,9 @@
   {
     "name": "Kyu Hetha",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "40%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Iron Chain Mail           15.69%",
       "Oak Staff                 15.28%",
@@ -8415,6 +8959,9 @@
   {
     "name": "Kyu Hota",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "10%",
+    "chestchance": "40%",
+    "itemdroplevel": "5",
     "drops": [
       "Thief\u0027s Gloves            18.44%",
       "Steel Gauntlets           15.38%",
@@ -8439,6 +8986,9 @@
   {
     "name": "Kyu Ianmo",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "10%",
+    "chestchance": "40%",
+    "itemdroplevel": "2",
     "drops": [
       "Brown Cloak               14.29%",
       "Iron Helmet               10.00%",
@@ -8486,6 +9036,9 @@
   {
     "name": "Kyu Nardana",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "7",
     "drops": [
       "Master\u0027s Gloves           20.15%",
       "Cuirboulli Armor           8.83%",
@@ -8543,6 +9096,9 @@
   {
     "name": "Kyu t\u0027Salli",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "10",
     "drops": [
       "Amulet of Infravision      9.07%",
       "Mithril Mace               8.66%",
@@ -8598,6 +9154,9 @@
   {
     "name": "Kyu Yetro",
     "image": "../images/monsters/MON15.jpg",
+    "boxchance": "10%",
+    "chestchance": "40%",
+    "itemdroplevel": "1",
     "drops": [
       "Oak Staff                 16.67%",
       "Boots of Lethargy         11.11%",
@@ -8617,6 +9176,9 @@
   {
     "name": "Lamurian",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "10%",
+    "chestchance": "40%",
+    "itemdroplevel": "12",
     "drops": [
       "Grey Cloak                19.68%",
       "Medallion of Dragons      10.00%",
@@ -8657,6 +9219,9 @@
   {
     "name": "Lamurian Guard",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "0%",
+    "chestchance": "60%",
+    "itemdroplevel": "14",
     "drops": [
       "Medallion of Dragons      13.33%",
       "Spectral Chain Mail       10.00%",
@@ -8682,6 +9247,9 @@
   {
     "name": "Lamurian High Priestess",
     "image": "../images/monsters/MON80.jpg",
+    "boxchance": "0%",
+    "chestchance": "115%",
+    "itemdroplevel": "16",
     "drops": [
       "Lamurian Crown            20.00%",
       "Cross of Requnix          10.00%",
@@ -8705,6 +9273,9 @@
   {
     "name": "Lamurian Lord",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "0% (0% in lair)",
+    "chestchance": "65% (90% in lair)",
+    "itemdroplevel": "15",
     "drops": [
       "Sword of Slaying          18.75%",
       "Lightning Blade           13.75%",
@@ -8733,6 +9304,9 @@
   {
     "name": "Lamurian Mage",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "25% (25% in lair)",
+    "chestchance": "35% (60% in lair)",
+    "itemdroplevel": "15",
     "drops": [
       "Medallion of Dragons      12.50%",
       "Skeleton Key               8.00%",
@@ -8762,6 +9336,9 @@
   {
     "name": "Lamurian Outcast",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "15%",
+    "chestchance": "30%",
+    "itemdroplevel": "9",
     "drops": [
       "Staff of Striking         16.11%",
       "Cross of Commanding        9.34%",
@@ -8809,6 +9386,9 @@
   {
     "name": "Lamurian Scout",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "20%",
+    "chestchance": "50%",
+    "itemdroplevel": "13",
     "drops": [
       "Crystal of Restoration    10.00%",
       "Medallion of Dragons       8.57%",
@@ -8855,6 +9435,9 @@
   {
     "name": "Lamurian Soldier",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "20%",
+    "chestchance": "40%",
+    "itemdroplevel": "14",
     "drops": [
       "Lamurian Shock Lance      15.38%",
       "Girdle of Power            9.37%",
@@ -8886,6 +9469,9 @@
   {
     "name": "Lamurian Warrior",
     "image": "../images/monsters/MON79.jpg",
+    "boxchance": "25%",
+    "chestchance": "25%",
+    "itemdroplevel": "15",
     "drops": [
       "Girdle of Power            9.38%",
       "Lamurian Ring              6.47%",
@@ -8926,6 +9512,9 @@
   {
     "name": "Large Orc",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "25% (25% in lair)",
+    "chestchance": "15% (40% in lair)",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Bracers               9.94%",
       "Nugena Gloves              9.37%",
@@ -9029,6 +9618,9 @@
   {
     "name": "Large Rat",
     "image": "../images/monsters/MON50.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "1",
     "drops": [
       "Initiate\u0027s Hands           3.07%",
       "Iron Sword                 3.07%",
@@ -9110,6 +9702,9 @@
   {
     "name": "Lassumeon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "6",
     "drops": [
       "Sphere of Dislocation     16.74%",
       "Master\u0027s Gloves            8.81%",
@@ -9220,6 +9815,9 @@
   {
     "name": "Lava Giant",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "10",
     "drops": [
       "Amulet of Infravision      9.09%",
       "Mithril Mace               8.86%",
@@ -9274,6 +9872,9 @@
   {
     "name": "Lich",
     "image": "../images/monsters/MON8.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "13",
     "drops": [
       "Grey Cloak                 9.52%",
       "Mithril Chain Mail         7.82%",
@@ -9312,6 +9913,9 @@
   {
     "name": "Life Shifter",
     "image": "../images/monsters/MON21.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "14",
     "drops": [
       "Mithril Shield            14.11%",
       "Magical Dust              11.11%",
@@ -9343,6 +9947,9 @@
   {
     "name": "Lost Soul",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "4%",
+    "chestchance": "1%",
+    "itemdroplevel": "6",
     "drops": [
       "Master\u0027s Gloves           17.24%",
       "Sphere of Dislocation      8.52%",
@@ -9366,6 +9973,9 @@
   {
     "name": "Lynch Demon",
     "image": "../images/monsters/MON36.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Magic Hands               10.36%",
       "White Cloak               10.36%",
@@ -9438,6 +10048,9 @@
   {
     "name": "Mage",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "14",
     "drops": [
       "Cap of Protection         20.12%",
       "Magical Dust              10.86%",
@@ -9470,6 +10083,9 @@
   {
     "name": "Magi Lord",
     "image": "../images/monsters/MON69.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "15",
     "drops": [
       "Cap of Protection         20.83%",
       "Crystal of Restoration    11.25%",
@@ -9500,6 +10116,9 @@
   {
     "name": "Malencor",
     "image": "../images/monsters/MON16.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "7",
     "drops": [
       "Staff of Striking         10.83%",
       "Master\u0027s Gloves            9.00%",
@@ -9542,6 +10161,9 @@
   {
     "name": "Mammon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "10",
     "drops": [
       "Mithril Sword             10.56%",
       "Gloves of Might           10.16%",
@@ -9664,6 +10286,9 @@
   {
     "name": "Margoyle",
     "image": "../images/monsters/MON40.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Tome of Leadership        12.44%",
       "Glowing Rock              11.11%",
@@ -9717,6 +10342,9 @@
   {
     "name": "Master Ninja",
     "image": "../images/monsters/MON25.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "10",
     "drops": [
       "Master\u0027s Hand             12.90%",
       "Hands of Death             7.74%",
@@ -9839,6 +10467,9 @@
   {
     "name": "Master of Shadows",
     "image": "../images/monsters/MON57.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "15",
     "drops": [
       "Studded Cuirboulli        10.72%",
       "Sword of Slaying          10.00%",
@@ -9876,6 +10507,9 @@
   {
     "name": "Master Swordsman",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "13",
     "drops": [
       "Gauntlets of Power         7.73%",
       "Medallion of Dragons       7.50%",
@@ -9917,6 +10551,9 @@
   {
     "name": "Master Thief",
     "image": "../images/monsters/MON45.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "14",
     "drops": [
       "Grey Cloak                17.14%",
       "Cap of Protection          9.26%",
@@ -9941,6 +10578,9 @@
   {
     "name": "Medusa",
     "image": "../images/monsters/MON56.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "50% (75% in lair)",
+    "itemdroplevel": "6",
     "drops": [
       "Medusa\u0027s Head             32.94%",
       "Boots of Evading          10.98%",
@@ -9969,6 +10609,9 @@
   {
     "name": "Meeshi",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "8",
     "drops": [
       "Gem of Healing            10.91%",
       "Cuirboulli Armor          10.91%",
@@ -10008,6 +10651,9 @@
   {
     "name": "Mengu-Ogre",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "15% (40% in lair)",
+    "itemdroplevel": "13",
     "drops": [
       "Gloves of Might           13.20%",
       "Skeleton Key               8.89%",
@@ -10038,6 +10684,9 @@
   {
     "name": "Mercenary",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "8",
     "drops": [
       "Black Cloak               13.85%",
       "Dwarven Hammer            10.91%",
@@ -10068,6 +10717,9 @@
   {
     "name": "Milsae",
     "image": "../images/monsters/MON22.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Tome of Endurance         12.00%",
       "Boots of Lethargy         11.11%",
@@ -10124,6 +10776,9 @@
   {
     "name": "Mind Twister",
     "image": "../images/monsters/MON65.jpg",
+    "boxchance": "0%",
+    "chestchance": "60%",
+    "itemdroplevel": "16",
     "drops": [
       "Cap of Death              20.00%",
       "Cross of Requnix          10.00%",
@@ -10160,6 +10815,9 @@
   {
     "name": "Minion of Death",
     "image": "../images/monsters/MON62.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "12",
     "drops": [
       "Cuirboulli Armor          20.00%",
       "Mithril Chain Mail        15.64%",
@@ -10184,6 +10842,9 @@
   {
     "name": "Minotaur",
     "image": "../images/monsters/MON64.jpg",
+    "boxchance": "0%",
+    "chestchance": "120%",
+    "itemdroplevel": "8",
     "drops": [
       "Tome of Spells            12.50%",
       "Elixr of Restoration       9.87%",
@@ -10227,6 +10888,9 @@
   {
     "name": "Mordun Pandrun",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "7",
     "drops": [
       "Gem of Healing            11.25%",
       "Adamantite Chain          10.85%",
@@ -10251,6 +10915,9 @@
   {
     "name": "Morey Bilk",
     "image": "../images/monsters/MON80.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "7",
     "drops": [
       "Purple Sash               10.00%",
       "Master\u0027s Gloves            9.33%",
@@ -10299,6 +10966,9 @@
   {
     "name": "Morgul",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "60%",
+    "itemdroplevel": "4",
     "drops": [
       "Steel Plate Mail          25.59%",
       "White Cloak               13.67%",
@@ -10318,6 +10988,9 @@
   {
     "name": "Morloch",
     "image": "../images/monsters/MON80.jpg",
+    "boxchance": "15%",
+    "chestchance": "25%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Shield               20.00%",
       "Iron Dagger                6.49%",
@@ -10365,6 +11038,9 @@
   {
     "name": "Mostrum",
     "image": "../images/monsters/MON43.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "6",
     "drops": [
       "Master\u0027s Gloves           20.15%",
       "Bracers of Strength       11.11%",
@@ -10389,6 +11065,9 @@
   {
     "name": "Mother of Serpents",
     "image": "../images/monsters/MON56.jpg",
+    "boxchance": "20%",
+    "chestchance": "65%",
+    "itemdroplevel": "14",
     "drops": [
       "Boots of Levitation        4.37%",
       "Boots of Agility           4.37%",
@@ -10489,6 +11168,9 @@
   {
     "name": "Mummy",
     "image": "../images/monsters/MON22.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Amulet of Ultravision     10.21%",
       "Boots of Lethargy         10.09%",
@@ -10570,6 +11252,9 @@
   {
     "name": "Mundragon",
     "image": "../images/monsters/MON41.jpg",
+    "boxchance": "30%",
+    "chestchance": "25%",
+    "itemdroplevel": "9",
     "drops": [
       "Cuirboulli Armor          13.33%",
       "Black Cloak                9.23%",
@@ -10608,6 +11293,9 @@
   {
     "name": "Munsae",
     "image": "../images/monsters/MON8.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "3",
     "drops": [
       "Girdle of Strength        13.33%",
       "Iron Battle Axe            8.36%",
@@ -10733,6 +11421,9 @@
   {
     "name": "Nabutu",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "50%",
+    "chestchance": "25%",
+    "itemdroplevel": "6",
     "drops": [
       "Sphere of Dislocation      9.34%",
       "Girdle of Might            7.35%",
@@ -10843,6 +11534,9 @@
   {
     "name": "Nakovant",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "30%",
+    "chestchance": "35%",
+    "itemdroplevel": "3",
     "drops": [
       "Silver Cross               8.31%",
       "Unicorn Horn               8.07%",
@@ -10967,6 +11661,9 @@
   {
     "name": "NaLanea",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "0%",
+    "chestchance": "60%",
+    "itemdroplevel": "8",
     "drops": [
       "Master\u0027s Gloves           22.41%",
       "Elixr of Restoration      17.69%",
@@ -11065,6 +11762,9 @@
   {
     "name": "Namana",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "10%",
+    "chestchance": "45%",
+    "itemdroplevel": "1",
     "drops": [
       "Iron Hammer               10.28%",
       "Crystal of Healing        10.18%",
@@ -11146,6 +11846,9 @@
   {
     "name": "Nan-Shuma",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Helmet               11.76%",
       "Iron Mace                  8.64%",
@@ -11200,6 +11903,9 @@
   {
     "name": "Nastrum",
     "image": "../images/monsters/MON43.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "3",
     "drops": [
       "White Cloak               11.52%",
       "Steel Dagger              10.91%",
@@ -11247,6 +11953,9 @@
   {
     "name": "Night Screamer",
     "image": "../images/monsters/MON20.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "10",
     "drops": [
       "Cross of Commanding        8.94%",
       "Adamantite Plate           7.71%",
@@ -11280,6 +11989,9 @@
   {
     "name": "Ninja",
     "image": "../images/monsters/MON25.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "8",
     "drops": [
       "Master\u0027s Hand             14.04%",
       "Gem of Healing            10.15%",
@@ -11401,6 +12113,9 @@
   {
     "name": "Numanog",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak               17.78%",
       "Gloves of Strength        13.89%",
@@ -11438,6 +12153,9 @@
   {
     "name": "Ogre",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "13",
     "drops": [
       "Lamurian Shock Lance      17.09%",
       "Mithril Mace              13.33%",
@@ -11463,6 +12181,9 @@
   {
     "name": "Orange Gremlin",
     "image": "../images/monsters/MON84.jpg",
+    "boxchance": "20%",
+    "chestchance": "15%",
+    "itemdroplevel": "4",
     "drops": [
       "Dalyn\u0027s Grin              31.43%",
       "White Cloak               11.33%",
@@ -11536,6 +12257,9 @@
   {
     "name": "Orc",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "1",
     "drops": [
       "Nugena Gloves             15.00%",
       "Brown Cloak               14.29%",
@@ -11571,6 +12295,9 @@
   {
     "name": "Outcast Goblin",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Iron Dagger                6.97%",
       "Tome of Lies               6.12%",
@@ -11652,6 +12379,9 @@
   {
     "name": "Pandrun",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "3",
     "drops": [
       "Oak Staff                 15.34%",
       "Iron-shod Staff            8.52%",
@@ -11701,6 +12431,9 @@
   {
     "name": "Pariah",
     "image": "../images/monsters/MON43.jpg",
+    "boxchance": "0%",
+    "chestchance": "75%",
+    "itemdroplevel": "13",
     "drops": [
       "Dalyn\u0027s Evil Laugh        50.00%",
       "Ball and Chain            20.00%",
@@ -11717,6 +12450,9 @@
   {
     "name": "Pelagon",
     "image": "../images/monsters/MON12.jpg",
+    "boxchance": "45%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Steel Dagger              30.19%",
       "Dust of Life              10.45%",
@@ -11742,6 +12478,9 @@
   {
     "name": "Phantasmal Mist",
     "image": "../images/monsters/MON10.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Boots of Evading          14.07%",
       "Tome of Spells            10.56%",
@@ -11779,6 +12518,9 @@
   {
     "name": "Phase Beast",
     "image": "../images/monsters/MON21.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "10",
     "drops": [
       "Mithril Battle Axe        10.30%",
       "Gauntlets of Might         9.17%",
@@ -11824,6 +12566,9 @@
   {
     "name": "Phoenix",
     "image": "../images/monsters/MON18.jpg",
+    "boxchance": "8%",
+    "chestchance": "42%",
+    "itemdroplevel": "15",
     "drops": [
       "Girdle of Power            9.37%",
       "Spectral Chain Mail        8.59%",
@@ -11865,6 +12610,9 @@
   {
     "name": "Pickpocket",
     "image": "../images/monsters/MON83.jpg",
+    "boxchance": "20%",
+    "chestchance": "25%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Mace                  9.81%",
       "Iron Plate Mail            9.41%",
@@ -11898,6 +12646,9 @@
   {
     "name": "Pilferer",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "8",
     "drops": [
       "Purple Sash               10.00%",
       "Adamantite Dagger          9.09%",
@@ -11933,6 +12684,9 @@
   {
     "name": "Pinyl",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Shield               10.00%",
       "Iron Bracers               9.76%",
@@ -11989,6 +12743,9 @@
   {
     "name": "Piranha",
     "image": "../images/monsters/MON54.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "10",
     "drops": [
       "Girdle of Might            3.00%",
       "Black Cloak                2.57%",
@@ -12111,6 +12868,9 @@
   {
     "name": "Pit Fiend",
     "image": "../images/monsters/MON36.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "13",
     "drops": [
       "Mithril-shod Staff         9.36%",
       "Skeleton Key               8.89%",
@@ -12171,6 +12931,9 @@
   {
     "name": "Pixie",
     "image": "../images/monsters/MON83.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Boots of Evading          13.70%",
       "Cuirboulli Armor          10.28%",
@@ -12214,6 +12977,9 @@
   {
     "name": "Poltergeist",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "6",
     "drops": [
       "Master\u0027s Gloves           20.15%",
       "Black Cloak               12.23%",
@@ -12253,6 +13019,9 @@
   {
     "name": "Polymorph",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "9",
     "drops": [
       "Gloves of Might           11.25%",
       "Master\u0027s Gloves           11.25%",
@@ -12295,6 +13064,9 @@
   {
     "name": "Pseudo-Dragon",
     "image": "../images/monsters/MON12.jpg",
+    "boxchance": "10%",
+    "chestchance": "70%",
+    "itemdroplevel": "2",
     "drops": [
       "Tome of Leadership        11.14%",
       "Amulet of Ultravision     10.00%",
@@ -12341,6 +13113,9 @@
   {
     "name": "Purple Gremlin",
     "image": "../images/monsters/MON88.jpg",
+    "boxchance": "20%",
+    "chestchance": "35%",
+    "itemdroplevel": "12",
     "drops": [
       "Dalyn\u0027s Groan             30.00%",
       "Crystal of Restoration    10.20%",
@@ -12474,6 +13249,9 @@
   {
     "name": "Ransae",
     "image": "../images/monsters/MON8.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "6",
     "drops": [
       "Purple Sash               10.28%",
       "Boots of Evading          10.28%",
@@ -12504,6 +13282,9 @@
   {
     "name": "Rashart",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Magic Hands               10.37%",
       "Unicorn Horn              10.37%",
@@ -12538,6 +13319,9 @@
   {
     "name": "Razor Boar",
     "image": "../images/monsters/MON49.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Bracers              19.51%",
       "Crystal of Healing        10.00%",
@@ -12560,6 +13344,9 @@
   {
     "name": "Reaper of Souls",
     "image": "../images/monsters/MON55.jpg",
+    "boxchance": "10%",
+    "chestchance": "30%",
+    "itemdroplevel": "16",
     "drops": [
       "Magician\u0027s Helm           16.28%",
       "Spectral Shield            8.28%",
@@ -12657,6 +13444,9 @@
   {
     "name": "Red Cloak Assassin",
     "image": "../images/monsters/MON57.jpg",
+    "boxchance": "25%",
+    "chestchance": "25%",
+    "itemdroplevel": "15",
     "drops": [
       "Staff of Helarno          10.91%",
       "Magical Dust              10.03%",
@@ -12777,6 +13567,9 @@
   {
     "name": "Red Gremlin",
     "image": "../images/monsters/MON53.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "2",
     "drops": [
       "Dalyn\u0027s Smile             30.00%",
       "Dust of Healing            9.88%",
@@ -12881,6 +13674,9 @@
   {
     "name": "Red-Cloaked Thief",
     "image": "../images/monsters/MON57.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "12",
     "drops": [
       "Magical Dust              10.00%",
       "Cross of Commanding        9.35%",
@@ -12929,6 +13725,9 @@
   {
     "name": "Robber",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "6",
     "drops": [
       "Black Cloak               12.55%",
       "Boots of Evading          11.29%",
@@ -13039,6 +13838,9 @@
   {
     "name": "Rock Elf",
     "image": "../images/monsters/MON83.jpg",
+    "boxchance": "30%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak                8.89%",
       "Gem of Healing             8.00%",
@@ -13080,6 +13882,9 @@
   {
     "name": "Rowdy",
     "image": "../images/monsters/MON37.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Iron Sword                17.09%",
       "Tome of Might             13.11%",
@@ -13105,6 +13910,9 @@
   {
     "name": "Ruffian",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "12%",
+    "chestchance": "3%",
+    "itemdroplevel": "7",
     "drops": [
       "Cuirboulli Armor          16.21%",
       "Studded Leather Armor     13.79%",
@@ -13143,6 +13951,9 @@
   {
     "name": "Satyr",
     "image": "../images/monsters/MON48.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Steel Dagger              30.56%",
       "White Cloak               10.77%",
@@ -13215,6 +14026,9 @@
   {
     "name": "Scavenger",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Helmet               10.22%",
       "Glowing Rock              10.07%",
@@ -13318,6 +14132,9 @@
   {
     "name": "Screaming Devil",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "4",
     "drops": [
       "Steel Dagger              19.84%",
       "White Cloak               10.28%",
@@ -13342,6 +14159,9 @@
   {
     "name": "Sentinal",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "8",
     "drops": [
       "Black Cloak               14.07%",
       "Cuirboulli Armor          10.15%",
@@ -13463,6 +14283,9 @@
   {
     "name": "Shadow Demon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "11",
     "drops": [
       "Cross of Commanding        9.66%",
       "Staff of Striking          8.33%",
@@ -13508,6 +14331,9 @@
   {
     "name": "Shadow Devil",
     "image": "../images/monsters/MON20.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "13",
     "drops": [
       "Crystal of Restoration    11.11%",
       "Cap of Protection          9.48%",
@@ -13557,6 +14383,9 @@
   {
     "name": "Shadow Dragon",
     "image": "../images/monsters/MON81.jpg",
+    "boxchance": "25%",
+    "chestchance": "35%",
+    "itemdroplevel": "12",
     "drops": [
       "Skeleton Key               8.00%",
       "Girdle of Power            7.08%",
@@ -13612,6 +14441,9 @@
   {
     "name": "Shadow Golem",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "13",
     "drops": [
       "Tome of Spells            10.00%",
       "Cap of Protection          8.78%",
@@ -13652,6 +14484,9 @@
   {
     "name": "Shadow Ninja",
     "image": "../images/monsters/MON25.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "16",
     "drops": [
       "Spectral Chain Mail       11.18%",
       "Elven Wine                 9.40%",
@@ -13749,6 +14584,9 @@
   {
     "name": "Shadow of Death",
     "image": "../images/monsters/MON62.jpg",
+    "boxchance": "20% (20% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "14",
     "drops": [
       "Grey Cloak                11.43%",
       "Crystal of Restoration    10.00%",
@@ -13780,6 +14618,9 @@
   {
     "name": "Shadow Ogre",
     "image": "../images/monsters/MON20.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "12",
     "drops": [
       "Mithril Mace              10.00%",
       "Tome of Spells            10.00%",
@@ -13810,6 +14651,9 @@
   {
     "name": "Shadow Serpent",
     "image": "../images/monsters/MON17.jpg",
+    "boxchance": "5% (5% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "11",
     "drops": [
       "Mithril Mace               9.11%",
       "Crystal of Restoration     9.05%",
@@ -13857,6 +14701,9 @@
   {
     "name": "Shadow Sting",
     "image": "../images/monsters/MON31.jpg",
+    "boxchance": "10%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Initiate\u0027s Hands           3.07%",
       "Iron Sword                 3.07%",
@@ -13938,6 +14785,9 @@
   {
     "name": "Shadow Wolf",
     "image": "../images/monsters/MON28.jpg",
+    "boxchance": "1%",
+    "chestchance": "23%",
+    "itemdroplevel": "11",
     "drops": [
       "Crystal of Restoration    19.44%",
       "Mithril Shield            13.82%",
@@ -13986,6 +14836,9 @@
   {
     "name": "Shaelmeon",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "8",
     "drops": [
       "Cuirboulli Armor          10.00%",
       "Master\u0027s Gloves           10.00%",
@@ -14024,6 +14877,9 @@
   {
     "name": "Shape Shifter",
     "image": "../images/monsters/MON76.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "White Cloak               33.75%",
       "Steel Dagger              22.02%",
@@ -14041,6 +14897,9 @@
   {
     "name": "Sharper",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "10",
     "drops": [
       "Boots of Levitation       14.81%",
       "Cross of Commanding        9.66%",
@@ -14076,6 +14935,9 @@
   {
     "name": "Shralar Thief",
     "image": "../images/monsters/MON45.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "15% (40% in lair)",
+    "itemdroplevel": "5",
     "drops": [
       "Iron-shod Staff           10.52%",
       "Studded Leather Armor      9.27%",
@@ -14121,6 +14983,9 @@
   {
     "name": "Shuman Munsae",
     "image": "../images/monsters/MON8.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "7",
     "drops": [
       "Cuirboulli Armor          11.38%",
       "Studded Leather Armor      8.62%",
@@ -14165,6 +15030,9 @@
   {
     "name": "Silent Eagle",
     "image": "../images/monsters/MON18.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "15% (40% in lair)",
+    "itemdroplevel": "11",
     "drops": [
       "Cuirboulli Armor          13.48%",
       "Mithril Mace               8.41%",
@@ -14306,6 +15174,9 @@
   {
     "name": "Silver Dragon",
     "image": "../images/monsters/MON81.jpg",
+    "boxchance": "45%",
+    "chestchance": "10%",
+    "itemdroplevel": "5",
     "drops": [
       "White Cloak               26.67%",
       "Steel Dagger              11.17%",
@@ -14327,6 +15198,9 @@
   {
     "name": "Siren",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "9",
     "drops": [
       "Elixr of Restoration      15.79%",
       "Staff of Striking         15.00%",
@@ -14361,6 +15235,9 @@
   {
     "name": "Sistrum",
     "image": "../images/monsters/MON43.jpg",
+    "boxchance": "20%",
+    "chestchance": "10%",
+    "itemdroplevel": "5",
     "drops": [
       "Amulet of Life            13.31%",
       "Steel Gauntlets           11.20%",
@@ -14459,6 +15336,9 @@
   {
     "name": "Skeleton",
     "image": "../images/monsters/MON44.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Padded Leather Armor      18.05%",
       "Iron Hammer               11.42%",
@@ -14540,6 +15420,9 @@
   {
     "name": "Skuldragl",
     "image": "../images/monsters/MON45.jpg",
+    "boxchance": "15%",
+    "chestchance": "25%",
+    "itemdroplevel": "2",
     "drops": [
       "Shimmering Ring           11.78%",
       "Iron Helmet               10.00%",
@@ -14569,6 +15452,9 @@
   {
     "name": "Slave",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "5%",
+    "chestchance": "0%",
+    "itemdroplevel": "1",
     "drops": [
       "Boots of Lethargy         20.00%",
       "Amulet of Ultravision     20.00%",
@@ -14586,6 +15472,9 @@
   {
     "name": "Slave Driver",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "0%",
+    "chestchance": "85%",
+    "itemdroplevel": "3",
     "drops": [
       "Slaver\u0027s Whip             30.00%",
       "Iron Plate Mail           10.00%",
@@ -14606,6 +15495,9 @@
   {
     "name": "Slave Masher",
     "image": "../images/monsters/MON78.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "60% (85% in lair)",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Mace                  8.18%",
       "Iron Chain Mail            7.69%",
@@ -14656,6 +15548,9 @@
   {
     "name": "Slaver",
     "image": "../images/monsters/MON78.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "25% (50% in lair)",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Dagger               12.99%",
       "Bone Dagger                6.49%",
@@ -14707,6 +15602,9 @@
   {
     "name": "Slayer",
     "image": "../images/monsters/MON14.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "4",
     "drops": [
       "Steel Gauntlets           15.88%",
       "Steel Dagger              10.76%",
@@ -14799,6 +15697,9 @@
   {
     "name": "Soldier",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "25%",
+    "chestchance": "15%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron Mace                 17.73%",
       "Bells of Kwalish          10.00%",
@@ -14850,6 +15751,9 @@
   {
     "name": "Sorcerer",
     "image": "../images/monsters/MON65.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "5",
     "drops": [
       "Amulet of Life            13.53%",
       "Cap of Defense            11.39%",
@@ -14874,6 +15778,9 @@
   {
     "name": "Spectral Dragon",
     "image": "../images/monsters/MON12.jpg",
+    "boxchance": "30%",
+    "chestchance": "25%",
+    "itemdroplevel": "14",
     "drops": [
       "Girdle of Power           10.06%",
       "Elven Wine                 7.71%",
@@ -14974,6 +15881,9 @@
   {
     "name": "Spell Binder",
     "image": "../images/monsters/MON80.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "7",
     "drops": [
       "Cap of Visions            10.91%",
       "Master\u0027s Gloves           10.37%",
@@ -15016,6 +15926,9 @@
   {
     "name": "Spook",
     "image": "../images/monsters/MON47.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "5",
     "drops": [
       "Gem of Healing             9.00%",
       "Orb of Life Domination     8.75%",
@@ -15065,6 +15978,9 @@
   {
     "name": "Sprite",
     "image": "../images/monsters/MON83.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "Iron-shod Staff            9.29%",
       "White Cloak                9.05%",
@@ -15101,6 +16017,9 @@
   {
     "name": "Stalker",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Tome of Spells            10.00%",
       "Dust of Opening           10.00%",
@@ -15137,6 +16056,9 @@
   {
     "name": "Stone Golemn",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "8",
     "drops": [
       "Girdle of Might           12.73%",
       "Master\u0027s Gloves           10.00%",
@@ -15161,6 +16083,9 @@
   {
     "name": "Strangleweed",
     "image": "../images/monsters/MON52.jpg",
+    "boxchance": "30%",
+    "chestchance": "35%",
+    "itemdroplevel": "3",
     "drops": [
       "Silver Cross               8.31%",
       "Unicorn Horn               8.07%",
@@ -15285,6 +16210,9 @@
   {
     "name": "Sun Dragon",
     "image": "../images/monsters/MON81.jpg",
+    "boxchance": "30% (30% in lair)",
+    "chestchance": "25% (50% in lair)",
+    "itemdroplevel": "9",
     "drops": [
       "Adamantite Plate          11.88%",
       "Tome of Spells            10.00%",
@@ -15318,6 +16246,9 @@
   {
     "name": "Swashbuckler",
     "image": "../images/monsters/MON73.jpg",
+    "boxchance": "10%",
+    "chestchance": "70%",
+    "itemdroplevel": "3",
     "drops": [
       "Gloves of Strength        23.21%",
       "Bells of Kwalish          10.00%",
@@ -15350,6 +16281,9 @@
   {
     "name": "Swordsman",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "9",
     "drops": [
       "Dust of Opening           10.56%",
       "Adamantite Chain           5.86%",
@@ -15403,6 +16337,9 @@
   {
     "name": "Tazen",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "10",
     "drops": [
       "Girdle of Might           12.96%",
       "Amulet of Infravision      8.42%",
@@ -15525,6 +16462,9 @@
   {
     "name": "T\u0027Butu",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "0%",
+    "chestchance": "40%",
+    "itemdroplevel": "15",
     "drops": [
       "Crystal of Restoration    10.15%",
       "Magician\u0027s Helm            8.12%",
@@ -15621,6 +16561,9 @@
   {
     "name": "Tengu",
     "image": "../images/monsters/MON82.jpg",
+    "boxchance": "10%",
+    "chestchance": "50%",
+    "itemdroplevel": "2",
     "drops": [
       "Prism of Sanctuary        20.00%",
       "Brown Cloak               14.29%",
@@ -15640,6 +16583,9 @@
   {
     "name": "Thief",
     "image": "../images/monsters/MON4.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "10",
     "drops": [
       "Amulet of Infravision      8.33%",
       "Skeleton Key               7.62%",
@@ -15676,6 +16622,9 @@
   {
     "name": "Thug",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "20%",
+    "chestchance": "25%",
+    "itemdroplevel": "3",
     "drops": [
       "Iron-shod Staff           12.62%",
       "Iron Mace                  9.51%",
@@ -15800,6 +16749,9 @@
   {
     "name": "Tiger Shark",
     "image": "../images/monsters/MON54.jpg",
+    "boxchance": "20%",
+    "chestchance": "5%",
+    "itemdroplevel": "5",
     "drops": [
       "Magic Hands               20.44%",
       "Boots of Swiftness        10.67%",
@@ -15824,6 +16776,9 @@
   {
     "name": "T\u0027Kovant",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "0%",
+    "chestchance": "45%",
+    "itemdroplevel": "13",
     "drops": [
       "Cross of Commanding       11.36%",
       "Magical Dust              11.12%",
@@ -15914,6 +16869,9 @@
   {
     "name": "T\u0027Lanea",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "20%",
+    "chestchance": "15%",
+    "itemdroplevel": "15",
     "drops": [
       "Gauntlets of Power        10.33%",
       "Girdle of Power           10.02%",
@@ -16034,6 +16992,9 @@
   {
     "name": "T\u0027Mana",
     "image": "../images/monsters/MON51.jpg",
+    "boxchance": "0%",
+    "chestchance": "50%",
+    "itemdroplevel": "11",
     "drops": [
       "Tome of Spells            11.14%",
       "Magical Dust              11.12%",
@@ -16144,6 +17105,9 @@
   {
     "name": "Trancor",
     "image": "../images/monsters/MON16.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "5",
     "drops": [
       "Iron-shod Staff           21.43%",
       "Steel Chain Mail          19.69%",
@@ -16165,6 +17129,9 @@
   {
     "name": "Troll",
     "image": "../images/monsters/MON30.jpg",
+    "boxchance": "25%",
+    "chestchance": "5%",
+    "itemdroplevel": "3",
     "drops": [
       "Gloves of Strength         8.85%",
       "Iron Battle Axe            8.13%",
@@ -16289,6 +17256,9 @@
   {
     "name": "Troll Demon",
     "image": "../images/monsters/MON47.jpg",
+    "boxchance": "10%",
+    "chestchance": "40%",
+    "itemdroplevel": "5",
     "drops": [
       "Boots of Evading          17.50%",
       "Steel Mace                10.96%",
@@ -16387,6 +17357,9 @@
   {
     "name": "Twisted Dwarf",
     "image": "../images/monsters/MON60.jpg",
+    "boxchance": "25% (25% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "1",
     "drops": [
       "Brown Cloak               15.87%",
       "Cross of Redemption       11.11%",
@@ -16426,6 +17399,9 @@
   {
     "name": "Twisted Elf",
     "image": "../images/monsters/MON74.jpg",
+    "boxchance": "0%",
+    "chestchance": "80%",
+    "itemdroplevel": "6",
     "drops": [
       "Boots of Evading          10.18%",
       "Gem of Healing            10.18%",
@@ -16517,6 +17493,9 @@
   {
     "name": "Vampire",
     "image": "../images/monsters/MON46.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "25% (50% in lair)",
+    "itemdroplevel": "11",
     "drops": [
       "Tome of Spells            10.00%",
       "Vampire Fang              10.00%",
@@ -16565,6 +17544,9 @@
   {
     "name": "Vampire Lord",
     "image": "../images/monsters/MON57.jpg",
+    "boxchance": "0%",
+    "chestchance": "73%",
+    "itemdroplevel": "15",
     "drops": [
       "Magical Dust              11.11%",
       "Girdle of Power           10.42%",
@@ -16596,6 +17578,9 @@
   {
     "name": "Veyasu",
     "image": "../images/monsters/MON7.jpg",
+    "boxchance": "35% (35% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "2",
     "drops": [
       "Glowing Rock              10.00%",
       "Iron Mace                  8.18%",
@@ -16637,6 +17622,9 @@
   {
     "name": "Walking Corpse",
     "image": "../images/monsters/MON22.jpg",
+    "boxchance": "15% (15% in lair)",
+    "chestchance": "5% (30% in lair)",
+    "itemdroplevel": "4",
     "drops": [
       "Magic Hands               12.21%",
       "White Cloak               12.21%",
@@ -16710,6 +17698,9 @@
   {
     "name": "Warlock",
     "image": "../images/monsters/MON13.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "20% (45% in lair)",
+    "itemdroplevel": "7",
     "drops": [
       "Cap of Visions            11.90%",
       "Cuirboulli Armor           9.86%",
@@ -16756,6 +17747,9 @@
   {
     "name": "Warlord",
     "image": "../images/monsters/MON72.jpg",
+    "boxchance": "0%",
+    "chestchance": "40%",
+    "itemdroplevel": "15",
     "drops": [
       "Sword of Slaying          12.50%",
       "Mace of Disruption         8.33%",
@@ -16793,6 +17787,9 @@
   {
     "name": "Warrior",
     "image": "../images/monsters/MON3.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Shield               20.00%",
       "Iron Helmet               10.00%",
@@ -16816,6 +17813,9 @@
   {
     "name": "Warrior Spirit",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "3",
     "drops": [
       "White Cloak               15.68%",
       "Brown Cloak               10.23%",
@@ -16849,6 +17849,9 @@
   {
     "name": "Water Snake",
     "image": "../images/monsters/MON35.jpg",
+    "boxchance": "10%",
+    "chestchance": "0%",
+    "itemdroplevel": "8",
     "drops": [
       "Tome of Spells            20.00%",
       "Steel Mace                 9.33%",
@@ -16891,6 +17894,9 @@
   {
     "name": "Water Watcher",
     "image": "../images/monsters/MON82.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "10",
     "drops": [
       "Mithril Sword             11.60%",
       "Cross of Commanding        9.66%",
@@ -16919,6 +17925,9 @@
   {
     "name": "Weaponist",
     "image": "../images/monsters/MON2.jpg",
+    "boxchance": "12%",
+    "chestchance": "3%",
+    "itemdroplevel": "7",
     "drops": [
       "Iron-shod Staff            8.89%",
       "Staff of Striking          8.33%",
@@ -16970,6 +17979,9 @@
   {
     "name": "Werebear",
     "image": "../images/monsters/MON5.jpg",
+    "boxchance": "10%",
+    "chestchance": "20%",
+    "itemdroplevel": "10",
     "drops": [
       "Staff of Striking          7.50%",
       "Skeleton Key               7.24%",
@@ -17007,6 +18019,9 @@
   {
     "name": "Wereboar",
     "image": "../images/monsters/MON49.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "2",
     "drops": [
       "Glowing Rock              22.22%",
       "Iron Shield               11.11%",
@@ -17032,6 +18047,9 @@
   {
     "name": "Wererat",
     "image": "../images/monsters/MON50.jpg",
+    "boxchance": "15%",
+    "chestchance": "15%",
+    "itemdroplevel": "2",
     "drops": [
       "Iron Helmet               10.00%",
       "Padded Leather Cap        10.00%",
@@ -17059,6 +18077,9 @@
   {
     "name": "Werewolf",
     "image": "../images/monsters/MON39.jpg",
+    "boxchance": "15%",
+    "chestchance": "20%",
+    "itemdroplevel": "8",
     "drops": [
       "Elixr of Restoration       8.90%",
       "Boots of Evading           7.58%",
@@ -17180,6 +18201,9 @@
   {
     "name": "White Dragon",
     "image": "../images/monsters/MON81.jpg",
+    "boxchance": "30% (30% in lair)",
+    "chestchance": "25% (50% in lair)",
+    "itemdroplevel": "11",
     "drops": [
       "Boots of Levitation       11.79%",
       "Boots of Agility          11.79%",
@@ -17226,6 +18250,9 @@
   {
     "name": "Wil \u0027O Wisp",
     "image": "../images/monsters/MON77.jpg",
+    "boxchance": "5%",
+    "chestchance": "5%",
+    "itemdroplevel": "8",
     "drops": [
       "Purple Sash               10.00%",
       "Cross of Commanding        8.70%",
@@ -17258,6 +18285,9 @@
   {
     "name": "Winged Demon",
     "image": "../images/monsters/MON11.jpg",
+    "boxchance": "30%",
+    "chestchance": "10%",
+    "itemdroplevel": "4",
     "drops": [
       "Dust of Life              10.32%",
       "Lodestone                 10.31%",
@@ -17330,6 +18360,9 @@
   {
     "name": "Wisp",
     "image": "../images/monsters/MON77.jpg",
+    "boxchance": "9%",
+    "chestchance": "1%",
+    "itemdroplevel": "7",
     "drops": [
       "Girdle of Might           12.92%",
       "Steel Dagger              10.38%",
@@ -17464,6 +18497,9 @@
   {
     "name": "Witch",
     "image": "../images/monsters/MON29.jpg",
+    "boxchance": "25%",
+    "chestchance": "15%",
+    "itemdroplevel": "10",
     "drops": [
       "Mithril Mace              12.19%",
       "Mithril Chain Mail         9.79%",
@@ -17496,6 +18532,9 @@
   {
     "name": "Wizard",
     "image": "../images/monsters/MON80.jpg",
+    "boxchance": "10%",
+    "chestchance": "10%",
+    "itemdroplevel": "11",
     "drops": [
       "Prism of Sanctuary        10.00%",
       "Magical Dust               6.67%",
@@ -17560,6 +18599,9 @@
   {
     "name": "Wraith",
     "image": "../images/monsters/MON20.jpg",
+    "boxchance": "15%",
+    "chestchance": "5%",
+    "itemdroplevel": "4",
     "drops": [
       "Tome of Endurance         21.25%",
       "Ring of Venom             10.62%",
@@ -17586,6 +18628,9 @@
   {
     "name": "Wretch",
     "image": "../images/monsters/MON9.jpg",
+    "boxchance": "10% (10% in lair)",
+    "chestchance": "10% (35% in lair)",
+    "itemdroplevel": "9",
     "drops": [
       "Staff of Striking         15.00%",
       "Gloves of Might           15.00%",
@@ -17625,6 +18670,9 @@
   {
     "name": "Yellow Gremlin",
     "image": "../images/monsters/MON85.jpg",
+    "boxchance": "20%",
+    "chestchance": "20%",
+    "itemdroplevel": "6",
     "drops": [
       "Dalyn\u0027s Laugh             37.50%",
       "Sphere of Dislocation     10.61%",
@@ -17751,6 +18799,9 @@
   {
     "name": "Zombie",
     "image": "../images/monsters/MON22.jpg",
+    "boxchance": "35%",
+    "chestchance": "5%",
+    "itemdroplevel": "1",
     "drops": [
       "Tome of Endurance         10.80%",
       "Amulet of Ultravision     10.00%",
